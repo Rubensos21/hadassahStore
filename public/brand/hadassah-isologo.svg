@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="title">
+  <title id="title">Sello Hadassah Store</title>
+  <defs>
+    <clipPath id="seal"><circle cx="180" cy="180" r="166" /></clipPath>
+    <g id="crown"><path d="M22 42 38 56l5-6 17-26 17 26 5 6 16-14-8 33q-30 13-60 0Z" fill="#354536"/><path d="M37 70q23 11 46 0" fill="none" stroke="#FAF8F5" stroke-linecap="round" stroke-width="3"/><circle cx="22" cy="41" r="4.5" fill="#354536"/><circle cx="37" cy="29" r="4.5" fill="#354536"/><circle cx="60" cy="18" r="5" fill="#354536"/><circle cx="83" cy="29" r="4.5" fill="#354536"/><circle cx="98" cy="41" r="4.5" fill="#354536"/></g>
+    <g id="sprig" fill="none" stroke="#69765F" stroke-linecap="round" stroke-width="1.7"><path d="M13 145q24-48 72-83"/><path d="M27 122q-17-5-20-22 17-2 25 12M40 104q-5-16 5-25 11 12 5 28M55 88q4-17 20-20 1 16-13 24M67 74q11-13 26-8-5 15-21 17M33 115q0 17 13 23 8-14-3-28" fill="#7C896D" stroke="none"/></g>
+    <g id="blossom"><ellipse cx="0" cy="-7" rx="5" ry="8" fill="#E8B3A8"/><ellipse cx="7" cy="0" rx="5" ry="8" transform="rotate(72 7 0)" fill="#F2CBC0"/><ellipse cx="4" cy="7" rx="5" ry="8" transform="rotate(144 4 7)" fill="#E9B8AE"/><ellipse cx="-4" cy="7" rx="5" ry="8" transform="rotate(216 -4 7)" fill="#F2CBC0"/><ellipse cx="-7" cy="0" rx="5" ry="8" transform="rotate(288 -7 0)" fill="#E8B3A8"/><circle r="3" fill="#AE7560"/></g>
+  </defs>
+  <circle cx="180" cy="180" r="171" fill="#FAF8F5" stroke="#69765F" stroke-width="3" />
+  <circle cx="180" cy="180" r="160" fill="none" stroke="#D8C9B5" stroke-width="1" />
+  <g clip-path="url(#seal)">
+    <use href="#sprig" transform="translate(22 177) scale(1.1)"/>
+    <use href="#sprig" transform="translate(338 177) scale(-1.1 1.1)"/>
+    <use href="#blossom" transform="translate(75 280) scale(1.1)"/><use href="#blossom" transform="translate(285 280) scale(1.1)"/>
+    <g transform="translate(120 30) scale(1.2)"><use href="#crown"/></g>
+    <rect x="62" y="238" width="236" height="70" rx="8" fill="#FAF8F5" fill-opacity=".96" />
+    <text x="180" y="273" text-anchor="middle" fill="#354536" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="600" letter-spacing="1.6">HADASSAH</text>
+    <path d="M118 284h33m58 0h33" fill="none" stroke="#A7655F" stroke-width="1.4" />
+    <text x="180" y="292" text-anchor="middle" fill="#69765F" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="5">STORE</text>
+  </g>
+</svg>

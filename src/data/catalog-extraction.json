@@ -1,0 +1,6167 @@
+[
+  {
+    "id": "5-TEDDY-T4-1",
+    "name": "Tazas de porcelana de osos navideños",
+    "model": "TEDDY-T4",
+    "category": "Mesa",
+    "price": 499.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "400 ml"
+    ],
+    "attributes": [],
+    "description": "1. Tazas de porcelana de osos navideños Capacidad: 400 ml 4 piezas $499.00",
+    "page": 5,
+    "image": "/images/catalog/page_5_img_4.png",
+    "images": [
+      "/images/catalog/page_5_img_4.png"
+    ]
+  },
+  {
+    "id": "5-TEDDY-TL2-2",
+    "name": "Tazas de porcelana de osos navideños",
+    "model": "TEDDY-TL2",
+    "category": "Mesa",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "500 ml"
+    ],
+    "attributes": [],
+    "description": "2. Tazas de porcelana de osos navideños Capacidad: 500 ml 2 piezas $399.00 2.",
+    "page": 5,
+    "image": "/images/catalog/page_5_img_2.png",
+    "images": [
+      "/images/catalog/page_5_img_2.png"
+    ]
+  },
+  {
+    "id": "6-TEDDY-V-3",
+    "name": "Vajilla de porcelana de osos navideños",
+    "model": "TEDDY-V",
+    "category": "Mesa",
+    "price": 1399.0,
+    "pieces": 12,
+    "includedPieces": [
+      "4 bowls",
+      "4 platos trinche",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Vajilla de porcelana de osos navideños 12 piezas $1,399.00",
+    "page": 6,
+    "image": "/images/catalog/page_6_img_1.png",
+    "images": [
+      "/images/catalog/page_6_img_1.png"
+    ]
+  },
+  {
+    "id": "7-TEDDY-SP-4",
+    "name": "Salero y pimentero de cerámica de osos navideños",
+    "model": "TEDDY-SP",
+    "category": "Mesa",
+    "price": 249.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Salero y pimentero de cerámica de osos navideños 2 piezas $249.00",
+    "page": 7,
+    "image": "/images/catalog/page_7_img_5.png",
+    "images": [
+      "/images/catalog/page_7_img_5.png"
+    ]
+  },
+  {
+    "id": "8-TEDDY-T-5",
+    "name": "Taza de cerámica de oso navideño",
+    "model": "TEDDY-T",
+    "category": "Mesa",
+    "price": 279.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "400 ml"
+    ],
+    "attributes": [],
+    "description": "1. Taza de cerámica de oso navideño Capacidad: 400 ml 1 pieza $279.00",
+    "page": 8,
+    "image": "/images/catalog/page_8_img_3.png",
+    "images": [
+      "/images/catalog/page_8_img_3.png"
+    ]
+  },
+  {
+    "id": "8-TEDDY-BP-6",
+    "name": "Base para pastel de cerámica de oso navideño",
+    "model": "TEDDY-BP",
+    "category": "Mesa",
+    "price": 899.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Base para pastel de cerámica de oso navideño 1 pieza $899.00",
+    "page": 8,
+    "image": "/images/catalog/page_8_img_3.png",
+    "images": [
+      "/images/catalog/page_8_img_3.png"
+    ]
+  },
+  {
+    "id": "9-TEDDY-TC2-7",
+    "name": "Tazas de porcelana de osos navideños",
+    "model": "TEDDY-TC2",
+    "category": "Mesa",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "500 ml"
+    ],
+    "attributes": [],
+    "description": "3. Tazas de porcelana de osos navideños Capacidad: 500 ml 2 piezas $399.00",
+    "page": 9,
+    "image": "/images/catalog/page_9_img_4.png",
+    "images": [
+      "/images/catalog/page_9_img_4.png"
+    ]
+  },
+  {
+    "id": "9-TEDDY-V2-8",
+    "name": "Vasos de porcelana de osos navideños",
+    "model": "TEDDY-V2",
+    "category": "Mesa",
+    "price": 489.0,
+    "pieces": 8,
+    "includedPieces": [
+      "2 vasos",
+      "2 tapas",
+      "2 mangas",
+      "2 pestañas para tapa"
+    ],
+    "measurements": [
+      "360 ml"
+    ],
+    "attributes": [],
+    "description": "4. Vasos de porcelana de osos navideños Capacidad: 360 ml 8 piezas $489.00",
+    "page": 9,
+    "image": "/images/catalog/page_9_img_4.png",
+    "images": [
+      "/images/catalog/page_9_img_4.png"
+    ]
+  },
+  {
+    "id": "10-CLARISSE-V-9",
+    "name": "Vajilla de porcelana de nochebuena",
+    "model": "CLARISSE-V",
+    "category": "Mesa",
+    "price": 1999.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 tazas",
+      "4 bowls",
+      "4 platos trinche",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Vajilla de porcelana de nochebuena 16 piezas $1,999.00",
+    "page": 10,
+    "image": "/images/catalog/page_10_img_1.png",
+    "images": [
+      "/images/catalog/page_10_img_1.png"
+    ]
+  },
+  {
+    "id": "11-CLARISSE-P-10",
+    "name": "Platón de porcelana de nochebuena",
+    "model": "CLARISSE-P",
+    "category": "Mesa",
+    "price": 399.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "31.8 x 19.5 cm"
+    ],
+    "attributes": [],
+    "description": "2. Platón de porcelana de nochebuena 1 pieza $399.00 2. Medida: 31.8 x 19.5 cm",
+    "page": 11,
+    "image": "/images/catalog/page_11_img_4.png",
+    "images": [
+      "/images/catalog/page_11_img_4.png"
+    ]
+  },
+  {
+    "id": "12-CLARISSE-SP-11",
+    "name": "Salero y pimentero de porcelana de nochebuena",
+    "model": "CLARISSE-SP",
+    "category": "Mesa",
+    "price": 249.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Salero y pimentero de porcelana de nochebuena 2 piezas $249.00",
+    "page": 12,
+    "image": "/images/catalog/page_12_img_3.png",
+    "images": [
+      "/images/catalog/page_12_img_3.png"
+    ]
+  },
+  {
+    "id": "12-CLARISSE-A-12",
+    "name": "Anillos para servilletas de porcelana de nochebuena",
+    "model": "CLARISSE-A",
+    "category": "Mesa",
+    "price": 299.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Anillos para servilletas de porcelana de nochebuena 4 piezas $299.00",
+    "page": 12,
+    "image": "/images/catalog/page_12_img_3.png",
+    "images": [
+      "/images/catalog/page_12_img_3.png"
+    ]
+  },
+  {
+    "id": "13-CLARISSE-R-13",
+    "name": "Ramekines de porcelana de nochebuena",
+    "model": "CLARISSE-R",
+    "category": "Mesa",
+    "price": 399.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "230ml"
+    ],
+    "attributes": [],
+    "description": "3. Ramekines de porcelana de nochebuena Capacidad: 230ml 4 piezas $399.00",
+    "page": 13,
+    "image": "/images/catalog/page_13_img_3.png",
+    "images": [
+      "/images/catalog/page_13_img_3.png"
+    ]
+  },
+  {
+    "id": "13-CLARISSE-B-14",
+    "name": "Bajoplato dorado",
+    "model": "CLARISSE-B",
+    "category": "Mesa",
+    "price": 199.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Bajoplato dorado 1 pieza $199.00",
+    "page": 13,
+    "image": "/images/catalog/page_13_img_3.png",
+    "images": [
+      "/images/catalog/page_13_img_3.png"
+    ]
+  },
+  {
+    "id": "14-ROCCABRONCE-15",
+    "name": "Cubiertos de acero inoxidable para 6 personas con servicio",
+    "model": "ROCCABRONCE",
+    "category": "Mesa",
+    "price": 2299.0,
+    "pieces": 27,
+    "includedPieces": [
+      "6 cucharas soperas",
+      "6 cuchillos de mesa",
+      "6 cucharas cafeteras",
+      "6 tenedores de mesa",
+      "1 tenedor para ensalada",
+      "1 cuchara para ensalada",
+      "1 pala para pastel"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. Cubiertos de acero inoxidable para 6 personas con servicio 27 piezas $2,299.00",
+    "page": 14,
+    "image": "/images/catalog/page_14_img_1.png",
+    "images": [
+      "/images/catalog/page_14_img_1.png"
+    ]
+  },
+  {
+    "id": "14-ELIAS-16",
+    "name": "Cubiertos de acero inoxidable plateado para 4 personas",
+    "model": "ELIAS",
+    "category": "Mesa",
+    "price": 799.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 cucharas soperas",
+      "4 cuchillos de mesa",
+      "4 cucharas cafeteras",
+      "4 tenedores de mesa"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. Cubiertos de acero inoxidable plateado para 4 personas 16 piezas $799.00",
+    "page": 14,
+    "image": "/images/catalog/page_14_img_2.png",
+    "images": [
+      "/images/catalog/page_14_img_2.png"
+    ]
+  },
+  {
+    "id": "15-SOLARI-17",
+    "name": "Cubiertos de acero inoxidable dorado para 4 personas",
+    "model": "SOLARI",
+    "category": "Mesa",
+    "price": 799.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 cucharas soperas",
+      "4 cuchillos de mesa",
+      "4 cucharas cafeteras",
+      "4 tenedores de mesa"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "3. Cubiertos de acero inoxidable dorado para 4 personas 16 piezas $799.00",
+    "page": 15,
+    "image": "/images/catalog/page_15_img_1.png",
+    "images": [
+      "/images/catalog/page_15_img_1.png"
+    ]
+  },
+  {
+    "id": "15-LUSTREROSE-18",
+    "name": "Cubiertos de acero inoxidable oro rosa para 4 personas",
+    "model": "LUSTREROSE",
+    "category": "Mesa",
+    "price": 799.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 cucharas soperas",
+      "4 cuchillos de mesa",
+      "4 tenedores de mesa",
+      "4 cucharas cafeteras"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "4. Cubiertos de acero inoxidable oro rosa para 4 personas 16 piezas $799.00",
+    "page": 15,
+    "image": "/images/catalog/page_15_img_2.png",
+    "images": [
+      "/images/catalog/page_15_img_2.png"
+    ]
+  },
+  {
+    "id": "16-BOHOWOOD13-19",
+    "name": "Vajilla de porcelana para 4 personas",
+    "model": "BOHOWOOD13",
+    "category": "Mesa",
+    "price": 1799.0,
+    "pieces": 20,
+    "includedPieces": [
+      "4 tazas",
+      "4 platos postre",
+      "4 platos trinche",
+      "4 platos soperos",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Vajilla de porcelana para 4 personas 20 piezas $1,799.00",
+    "page": 16,
+    "image": "/images/catalog/page_16_img_2.png",
+    "images": [
+      "/images/catalog/page_16_img_2.png"
+    ]
+  },
+  {
+    "id": "17-HEIMABROWN8-20",
+    "name": "Juego de taza y plato postre de cerámica",
+    "model": "HEIMABROWN8",
+    "category": "Mesa",
+    "price": 599.0,
+    "pieces": 8,
+    "includedPieces": [
+      "4 tazas",
+      "4 platos postre"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Juego de taza y plato postre de cerámica 8 piezas $599.00",
+    "page": 17,
+    "image": "/images/catalog/page_17_img_1.png",
+    "images": [
+      "/images/catalog/page_17_img_1.png"
+    ]
+  },
+  {
+    "id": "17-HEIMABROWN12-21",
+    "name": "Vajilla de cerámica para 4 personas",
+    "model": "HEIMABROWN12",
+    "category": "Mesa",
+    "price": 1399.0,
+    "pieces": 12,
+    "includedPieces": [
+      "4 bowls",
+      "4 platos trinche",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Vajilla de cerámica para 4 personas 12 piezas $1,399.00",
+    "page": 17,
+    "image": "/images/catalog/page_17_img_2.png",
+    "images": [
+      "/images/catalog/page_17_img_2.png"
+    ]
+  },
+  {
+    "id": "18-BOHOPINK20-22",
+    "name": "Vajilla de porcelana para 4 personas",
+    "model": "BOHOPINK20",
+    "category": "Mesa",
+    "price": 1799.0,
+    "pieces": 20,
+    "includedPieces": [
+      "4 tazas",
+      "4 platos postre",
+      "4 platos trinche",
+      "4 platos soperos",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Vajilla de porcelana para 4 personas 20 piezas $1,799.00",
+    "page": 18,
+    "image": "/images/catalog/page_18_img_2.png",
+    "images": [
+      "/images/catalog/page_18_img_2.png"
+    ]
+  },
+  {
+    "id": "19-MARIEL-G-23",
+    "name": "Juego de copas goblet de vidrio texturizado",
+    "model": "MARIEL-G",
+    "category": "Mesa",
+    "price": 599.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "250 ml"
+    ],
+    "attributes": [],
+    "description": "2. Juego de copas goblet de vidrio texturizado Capacidad: 250 ml 4 piezas $599.00",
+    "page": 19,
+    "image": "/images/catalog/page_19_img_3.png",
+    "images": [
+      "/images/catalog/page_19_img_3.png"
+    ]
+  },
+  {
+    "id": "20-CUADRATABASIC-24",
+    "name": "Vajilla de porcelana para 4 personas",
+    "model": "CUADRATABASIC",
+    "category": "Mesa",
+    "price": 1799.0,
+    "pieces": 20,
+    "includedPieces": [
+      "4 tazas",
+      "4 platos postre",
+      "4 platos trinche",
+      "4 platos soperos",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Vajilla de porcelana para 4 personas 20 piezas $1,799.00",
+    "page": 20,
+    "image": "/images/catalog/page_20_img_2.png",
+    "images": [
+      "/images/catalog/page_20_img_2.png"
+    ]
+  },
+  {
+    "id": "20-ANDORRA-25",
+    "name": "Salsero de cerámica con 3 divisiones",
+    "model": "ANDORRA",
+    "category": "Mesa",
+    "price": 499.0,
+    "pieces": 1,
+    "includedPieces": [
+      "4 tazas",
+      "4 platos postre",
+      "4 platos trinche",
+      "4 platos soperos",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Salsero de cerámica con 3 divisiones 1 pieza $499.00",
+    "page": 20,
+    "image": "/images/catalog/page_20_img_2.png",
+    "images": [
+      "/images/catalog/page_20_img_2.png"
+    ]
+  },
+  {
+    "id": "21-TONALA-26",
+    "name": "Juego de 2 tazones de porcelana para pozole",
+    "model": "TONALA",
+    "category": "Mesa",
+    "price": 499.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "890 ml"
+    ],
+    "attributes": [],
+    "description": "3. Juego de 2 tazones de porcelana para pozole Capacidad: 890 ml 2 piezas $499.00",
+    "page": 21,
+    "image": "/images/catalog/page_21_img_3.png",
+    "images": [
+      "/images/catalog/page_21_img_3.png"
+    ]
+  },
+  {
+    "id": "21-CHAPALA-27",
+    "name": "Juego de 2 tazones de porcelana para pozole",
+    "model": "CHAPALA",
+    "category": "Mesa",
+    "price": 499.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "890 ml"
+    ],
+    "attributes": [],
+    "description": "4. Juego de 2 tazones de porcelana para pozole Capacidad: 890 ml 2 piezas $499.00",
+    "page": 21,
+    "image": "/images/catalog/page_21_img_3.png",
+    "images": [
+      "/images/catalog/page_21_img_3.png"
+    ]
+  },
+  {
+    "id": "22-ATLIXCO-V-28",
+    "name": "Vajilla de cerámica y porcelana para 4 personas",
+    "model": "ATLIXCO-V",
+    "category": "Mesa",
+    "price": 1899.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 vasos",
+      "4 bowls",
+      "4 platos trinche",
+      "4 ensaladeros de porcelana"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Vajilla de cerámica y porcelana para 4 personas 16 piezas $1,899.00",
+    "page": 22,
+    "image": "/images/catalog/page_22_img_2.png",
+    "images": [
+      "/images/catalog/page_22_img_2.png"
+    ]
+  },
+  {
+    "id": "23-ATLIXCO-T-29",
+    "name": "Tazas de porcelana",
+    "model": "ATLIXCO-T",
+    "category": "Mesa",
+    "price": 599.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "340 ml"
+    ],
+    "attributes": [],
+    "description": "1. Tazas de porcelana Capacidad: 340 ml 4 piezas $599.00",
+    "page": 23,
+    "image": "/images/catalog/page_23_img_3.png",
+    "images": [
+      "/images/catalog/page_23_img_3.png"
+    ]
+  },
+  {
+    "id": "23-ALEJANDRA-30",
+    "name": "Tortillero de cuerda con tapa",
+    "model": "ALEJANDRA",
+    "category": "Mesa",
+    "price": 329.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tapa",
+      "1 tortillero"
+    ],
+    "measurements": [
+      "2 kg"
+    ],
+    "attributes": [],
+    "description": "2. Tortillero de cuerda con tapa Capacidad: 2 kg 2 piezas $329.00",
+    "page": 23,
+    "image": "/images/catalog/page_23_img_3.png",
+    "images": [
+      "/images/catalog/page_23_img_3.png"
+    ]
+  },
+  {
+    "id": "24-SOUL-31",
+    "name": "Vajilla de cerámica para 4 personas",
+    "model": "SOUL",
+    "category": "Mesa",
+    "price": 1999.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 tazas",
+      "4 bowls",
+      "4 platos trinche",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Vajilla de cerámica para 4 personas 16 piezas $1,999.00",
+    "page": 24,
+    "image": "/images/catalog/page_24_img_2.png",
+    "images": [
+      "/images/catalog/page_24_img_2.png"
+    ]
+  },
+  {
+    "id": "25-COLETTE-32",
+    "name": "Vajilla de porcelana para 4 personas",
+    "model": "COLETTE",
+    "category": "Mesa",
+    "price": 1899.0,
+    "pieces": 16,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Vajilla de porcelana para 4 personas 16 piezas $1,899.00",
+    "page": 25,
+    "image": "/images/catalog/page_25_img_2.png",
+    "images": [
+      "/images/catalog/page_25_img_2.png"
+    ]
+  },
+  {
+    "id": "26-MANDELL-33",
+    "name": "Vajilla de cerámica con manteles para 4 personas",
+    "model": "MANDELL",
+    "category": "Mesa",
+    "price": 1399.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 bowls",
+      "4 platos trinche",
+      "4 platos ensaladeros",
+      "4 manteles doble vista"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Vajilla de cerámica con manteles para 4 personas 16 piezas $1,399.00",
+    "page": 26,
+    "image": "/images/catalog/page_26_img_2.png",
+    "images": [
+      "/images/catalog/page_26_img_2.png"
+    ]
+  },
+  {
+    "id": "27-GRISELLE-34",
+    "name": "Vajilla de opal gris para 4 personas",
+    "model": "GRISELLE",
+    "category": "Mesa",
+    "price": 1199.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 bowls",
+      "4 platos trinche",
+      "4 platos soperos",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Vajilla de opal gris para 4 personas 16 piezas $1,199.00",
+    "page": 27,
+    "image": "/images/catalog/page_27_img_3.png",
+    "images": [
+      "/images/catalog/page_27_img_3.png"
+    ]
+  },
+  {
+    "id": "28-NEBEL-35",
+    "name": "Vajilla de cerámica para 4 personas",
+    "model": "NEBEL",
+    "category": "Mesa",
+    "price": 1699.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 tazas",
+      "4 bowls",
+      "4 platos trinche",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Vajilla de cerámica para 4 personas 16 piezas $1,699.00",
+    "page": 28,
+    "image": "/images/catalog/page_28_img_1.png",
+    "images": [
+      "/images/catalog/page_28_img_1.png"
+    ]
+  },
+  {
+    "id": "28-LUSTRENOIR-36",
+    "name": "Cubiertos de acero inoxidable negro para 4 personas",
+    "model": "LUSTRENOIR",
+    "category": "Mesa",
+    "price": 799.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 cucharas soperas",
+      "4 cuchillos de mesa",
+      "4 cucharas cafeteras",
+      "4 tenedores de mesa"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. Cubiertos de acero inoxidable negro para 4 personas 16 piezas $799.00",
+    "page": 28,
+    "image": "/images/catalog/page_28_img_2.png",
+    "images": [
+      "/images/catalog/page_28_img_2.png"
+    ]
+  },
+  {
+    "id": "29-SIENNA-37",
+    "name": "Vajilla de porcelana para 4 personas",
+    "model": "SIENNA",
+    "category": "Mesa",
+    "price": 1199.0,
+    "pieces": 12,
+    "includedPieces": [
+      "4 bowls",
+      "4 platos trinche",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Vajilla de porcelana para 4 personas 12 piezas $1,199.00",
+    "page": 29,
+    "image": "/images/catalog/page_29_img_3.png",
+    "images": [
+      "/images/catalog/page_29_img_3.png"
+    ]
+  },
+  {
+    "id": "30-ADRIANE-38",
+    "name": "Vajilla de opal negro para 4 personas",
+    "model": "ADRIANE",
+    "category": "Mesa",
+    "price": 899.0,
+    "pieces": 12,
+    "includedPieces": [
+      "4 platos trinche",
+      "4 platos soperos",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Vajilla de opal negro para 4 personas 12 piezas $899.00",
+    "page": 30,
+    "image": "/images/catalog/page_30_img_2.png",
+    "images": [
+      "/images/catalog/page_30_img_2.png"
+    ]
+  },
+  {
+    "id": "31-NEGRONI-39",
+    "name": "Vajilla de cerámica para 4 personas",
+    "model": "NEGRONI",
+    "category": "Mesa",
+    "price": 1899.0,
+    "pieces": 16,
+    "includedPieces": [
+      "4 tazas",
+      "4 bowls",
+      "4 platos trinche",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Vajilla de cerámica para 4 personas 16 piezas $1,899.00",
+    "page": 31,
+    "image": "/images/catalog/page_31_img_2.png",
+    "images": [
+      "/images/catalog/page_31_img_2.png"
+    ]
+  },
+  {
+    "id": "31-MERLOTW-40",
+    "name": "Copas de vidrio",
+    "model": "MERLOTW",
+    "category": "Mesa",
+    "price": 1199.0,
+    "pieces": 4,
+    "includedPieces": [
+      "4 tazas",
+      "4 bowls",
+      "4 platos trinche",
+      "4 platos ensaladeros"
+    ],
+    "measurements": [
+      "450 ml"
+    ],
+    "attributes": [],
+    "description": "2. Copas de vidrio Capacidad: 450 ml 4 piezas $1,199.00",
+    "page": 31,
+    "image": "/images/catalog/page_31_img_2.png",
+    "images": [
+      "/images/catalog/page_31_img_2.png"
+    ]
+  },
+  {
+    "id": "32-ALTOENS-41",
+    "name": "Platos ensaladeros de porcelana de alta calidad",
+    "model": "ALTOENS",
+    "category": "Mesa",
+    "price": 449.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Platos ensaladeros de porcelana de alta calidad 4 piezas $449.00",
+    "page": 32,
+    "image": "/images/catalog/page_32_img_1.png",
+    "images": [
+      "/images/catalog/page_32_img_1.png"
+    ]
+  },
+  {
+    "id": "32-ALTOBOWL-42",
+    "name": "Bowls de porcelana de alta calidad",
+    "model": "ALTOBOWL",
+    "category": "Mesa",
+    "price": 399.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "680 ml"
+    ],
+    "attributes": [],
+    "description": "2. Bowls de porcelana de alta calidad Capacidad: 680 ml 4 piezas $399.00",
+    "page": 32,
+    "image": "/images/catalog/page_32_img_2.png",
+    "images": [
+      "/images/catalog/page_32_img_2.png"
+    ]
+  },
+  {
+    "id": "33-ALTOSOP-43",
+    "name": "Platos soperos de porcelana de",
+    "model": "ALTOSOP",
+    "category": "Mesa",
+    "price": 499.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Platos soperos de porcelana de",
+    "page": 33,
+    "image": "/images/catalog/page_33_img_2.png",
+    "images": [
+      "/images/catalog/page_33_img_2.png"
+    ]
+  },
+  {
+    "id": "33-ALTOTRI-44",
+    "name": "Platos trinche de porcelana de",
+    "model": "ALTOTRI",
+    "category": "Mesa",
+    "price": 499.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Platos trinche de porcelana de",
+    "page": 33,
+    "image": "/images/catalog/page_33_img_1.png",
+    "images": [
+      "/images/catalog/page_33_img_1.png"
+    ]
+  },
+  {
+    "id": "34-IRLANDA-45",
+    "name": "Juego de tarros cerveceros",
+    "model": "IRLANDA",
+    "category": "Mesa",
+    "price": 449.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "500 ml"
+    ],
+    "attributes": [],
+    "description": "1. Juego de tarros cerveceros Capacidad: 500 ml 4 piezas $449.00",
+    "page": 34,
+    "image": "/images/catalog/page_34_img_1.png",
+    "images": [
+      "/images/catalog/page_34_img_1.png"
+    ]
+  },
+  {
+    "id": "34-MARIEL-H-46",
+    "name": "Juego de copas cortas de vidrio texturizado",
+    "model": "MARIEL-H",
+    "category": "Mesa",
+    "price": 549.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "320 ml"
+    ],
+    "attributes": [],
+    "description": "2. Juego de copas cortas de vidrio texturizado Capacidad: 320 ml 4 piezas $549.00",
+    "page": 34,
+    "image": "/images/catalog/page_34_img_2.png",
+    "images": [
+      "/images/catalog/page_34_img_2.png"
+    ]
+  },
+  {
+    "id": "35-MARIEL-J-47",
+    "name": "Jarra de vidrio texturizado",
+    "model": "MARIEL-J",
+    "category": "Mesa",
+    "price": 499.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "1 L"
+    ],
+    "attributes": [],
+    "description": "3. Jarra de vidrio texturizado Capacidad: 1 L 1 pieza $499.00",
+    "page": 35,
+    "image": "/images/catalog/page_35_img_1.png",
+    "images": [
+      "/images/catalog/page_35_img_1.png"
+    ]
+  },
+  {
+    "id": "35-MARIEL-VC-48",
+    "name": "Juego de vasos cortos de vidrio texturizado",
+    "model": "MARIEL-VC",
+    "category": "Mesa",
+    "price": 499.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "300 ml"
+    ],
+    "attributes": [],
+    "description": "4. Juego de vasos cortos de vidrio texturizado Capacidad: 300 ml 4 piezas $499.00",
+    "page": 35,
+    "image": "/images/catalog/page_35_img_3.png",
+    "images": [
+      "/images/catalog/page_35_img_3.png"
+    ]
+  },
+  {
+    "id": "36-OCEAN-2-49",
+    "name": "Dispensador doble de líquidos con base de metal",
+    "model": "OCEAN-2",
+    "category": "Mesa",
+    "price": 799.0,
+    "pieces": 7,
+    "includedPieces": [
+      "2 llaves",
+      "2 tapas",
+      "1 base de metal",
+      "2 dispensadores"
+    ],
+    "measurements": [
+      "4 L"
+    ],
+    "attributes": [],
+    "description": "1. Dispensador doble de líquidos con base de metal Capacidad: 4 L c/u 7 piezas $799.00",
+    "page": 36,
+    "image": "/images/catalog/page_36_img_1.png",
+    "images": [
+      "/images/catalog/page_36_img_1.png"
+    ]
+  },
+  {
+    "id": "36-MARIEL-VL-50",
+    "name": "Juego de vasos largos de vidrio texturizado",
+    "model": "MARIEL-VL",
+    "category": "Mesa",
+    "price": 549.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "420 ml"
+    ],
+    "attributes": [],
+    "description": "2. Juego de vasos largos de vidrio texturizado Capacidad: 420 ml 4 piezas $549.00",
+    "page": 36,
+    "image": "/images/catalog/page_36_img_2.png",
+    "images": [
+      "/images/catalog/page_36_img_2.png"
+    ]
+  },
+  {
+    "id": "37-JULIETTA-51",
+    "name": "Jarra de vidrio",
+    "model": "JULIETTA",
+    "category": "Mesa",
+    "price": 549.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "2 L"
+    ],
+    "attributes": [],
+    "description": "3. Jarra de vidrio Capacidad: 2 L 1 pieza $549.00",
+    "page": 37,
+    "image": "/images/catalog/page_37_img_2.png",
+    "images": [
+      "/images/catalog/page_37_img_2.png"
+    ]
+  },
+  {
+    "id": "37-OCEAN-4-52",
+    "name": "Dispensador de líquidos con base de metal",
+    "model": "OCEAN-4",
+    "category": "Mesa",
+    "price": 499.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 base de metal",
+      "1 llave antigoteo",
+      "1 tapa rosca de metal",
+      "1 dispensador de líquidos"
+    ],
+    "measurements": [
+      "4 L"
+    ],
+    "attributes": [],
+    "description": "4. Dispensador de líquidos con base de metal Capacidad: 4 L 4 piezas $499.00",
+    "page": 37,
+    "image": "/images/catalog/page_37_img_1.png",
+    "images": [
+      "/images/catalog/page_37_img_1.png"
+    ]
+  },
+  {
+    "id": "38-LIORA-M-53",
+    "name": "Juego de copas de vidrio para margaritas",
+    "model": "LIORA-M",
+    "category": "Mesa",
+    "price": 549.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "230 ml"
+    ],
+    "attributes": [],
+    "description": "1. Juego de copas de vidrio para margaritas Capacidad: 230 ml 4 piezas $549.00",
+    "page": 38,
+    "image": "/images/catalog/page_38_img_1.png",
+    "images": [
+      "/images/catalog/page_38_img_1.png"
+    ]
+  },
+  {
+    "id": "38-LIORA-C-54",
+    "name": "Juego de copas de vidrio para champán",
+    "model": "LIORA-C",
+    "category": "Mesa",
+    "price": 499.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "170 ml"
+    ],
+    "attributes": [],
+    "description": "2. Juego de copas de vidrio para champán Capacidad: 170 ml 4 piezas $499.00",
+    "page": 38,
+    "image": "/images/catalog/page_38_img_3.png",
+    "images": [
+      "/images/catalog/page_38_img_3.png"
+    ]
+  },
+  {
+    "id": "39-LIORA-K-55",
+    "name": "Juego de vasos de vidrio para cocteles",
+    "model": "LIORA-K",
+    "category": "Mesa",
+    "price": 249.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "320 ml"
+    ],
+    "attributes": [],
+    "description": "3. Juego de vasos de vidrio para cocteles Capacidad: 320 ml 4 piezas $249.00",
+    "page": 39,
+    "image": "/images/catalog/page_39_img_1.png",
+    "images": [
+      "/images/catalog/page_39_img_1.png"
+    ]
+  },
+  {
+    "id": "39-LUCERO-56",
+    "name": "Jarra con 4 vasos de acrílico texturizados",
+    "model": "LUCERO",
+    "category": "Mesa",
+    "price": 549.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 jarra de 2 L",
+      "4 vasos de 400 ml"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Jarra con 4 vasos de acrílico texturizados 5 piezas $549.00",
+    "page": 39,
+    "image": "/images/catalog/page_39_img_3.png",
+    "images": [
+      "/images/catalog/page_39_img_3.png"
+    ]
+  },
+  {
+    "id": "40-NATURAL-C-57",
+    "name": "Portacubiertos de acero y bambú",
+    "model": "NATURAL-C",
+    "category": "Mesa",
+    "price": 329.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Portacubiertos de acero y bambú 1 pieza $329.00",
+    "page": 40,
+    "image": "/images/catalog/page_40_img_1.png",
+    "images": [
+      "/images/catalog/page_40_img_1.png"
+    ]
+  },
+  {
+    "id": "40-NATURALCOOK5-58",
+    "name": "Servilletero de bambú",
+    "model": "NATURALCOOK5",
+    "category": "Mesa",
+    "price": 299.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 rodillo",
+      "1 base"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Servilletero de bambú 2 piezas $299.00",
+    "page": 40,
+    "image": "/images/catalog/page_40_img_2.png",
+    "images": [
+      "/images/catalog/page_40_img_2.png"
+    ]
+  },
+  {
+    "id": "41-NATURAL-P-59",
+    "name": "Panera de acero",
+    "model": "NATURAL-P",
+    "category": "Mesa",
+    "price": 399.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Panera de acero",
+    "page": 41,
+    "image": "/images/catalog/page_41_img_1.png",
+    "images": [
+      "/images/catalog/page_41_img_1.png"
+    ]
+  },
+  {
+    "id": "41-NATURAL-S-60",
+    "name": "Servilletero de acero con base de",
+    "model": "NATURAL-S",
+    "category": "Mesa",
+    "price": 269.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Servilletero de acero con base de",
+    "page": 41,
+    "image": "/images/catalog/page_41_img_2.png",
+    "images": [
+      "/images/catalog/page_41_img_2.png"
+    ]
+  },
+  {
+    "id": "42-LINA-61",
+    "name": "Mantel individual",
+    "model": "LINA",
+    "category": "Mesa",
+    "price": 99.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Mantel individual 1 pieza $99.00",
+    "page": 42,
+    "image": "/images/catalog/page_42_img_2.png",
+    "images": [
+      "/images/catalog/page_42_img_2.png"
+    ]
+  },
+  {
+    "id": "42-CURAZAONEGRO-62",
+    "name": "Mantel individual negro",
+    "model": "CURAZAONEGRO",
+    "category": "Mesa",
+    "price": 99.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Mantel individual negro 1 pieza $99.00",
+    "page": 42,
+    "image": "/images/catalog/page_42_img_1.png",
+    "images": [
+      "/images/catalog/page_42_img_1.png"
+    ]
+  },
+  {
+    "id": "43-YOLASALMON-63",
+    "name": "Mantel individual rosa",
+    "model": "YOLASALMON",
+    "category": "Mesa",
+    "price": 99.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Mantel individual rosa 1 pieza $99.00",
+    "page": 43,
+    "image": "/images/catalog/page_43_img_1.png",
+    "images": [
+      "/images/catalog/page_43_img_1.png"
+    ]
+  },
+  {
+    "id": "43-YOLAVERDE-64",
+    "name": "Mantel individual verde",
+    "model": "YOLAVERDE",
+    "category": "Mesa",
+    "price": 99.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Mantel individual verde 1 pieza $99.00",
+    "page": 43,
+    "image": "/images/catalog/page_43_img_2.png",
+    "images": [
+      "/images/catalog/page_43_img_2.png"
+    ]
+  },
+  {
+    "id": "45-DULCE-T2-65",
+    "name": "Juego de taza y plato postre de cerámica",
+    "model": "DULCE-T2",
+    "category": "Café y Té",
+    "price": 699.0,
+    "pieces": 4,
+    "includedPieces": [
+      "2 tazas",
+      "2 platos"
+    ],
+    "measurements": [
+      "350 ml"
+    ],
+    "attributes": [],
+    "description": "Juego de taza y plato postre de cerámica Capacidad: 350 ml 4 piezas $699.00",
+    "page": 45,
+    "image": "/images/catalog/page_45_img_2.png",
+    "images": [
+      "/images/catalog/page_45_img_2.png"
+    ]
+  },
+  {
+    "id": "46-GEOMETRIC2-66",
+    "name": "Tazas de porcelana geométricas con textura",
+    "model": "GEOMETRIC2",
+    "category": "Café y Té",
+    "price": 399.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "400 ml"
+    ],
+    "attributes": [],
+    "description": "1. Tazas de porcelana geométricas con textura Capacidad: 400 ml 4 piezas $399.00",
+    "page": 46,
+    "image": "/images/catalog/page_46_img_2.png",
+    "images": [
+      "/images/catalog/page_46_img_2.png"
+    ]
+  },
+  {
+    "id": "46-GEOBOWL2-67",
+    "name": "Tazones de porcelana geométricos con textura",
+    "model": "GEOBOWL2",
+    "category": "Café y Té",
+    "price": 499.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "520 ml"
+    ],
+    "attributes": [],
+    "description": "2. Tazones de porcelana geométricos con textura Capacidad: 520 ml 4 piezas $499.00",
+    "page": 46,
+    "image": "/images/catalog/page_46_img_3.png",
+    "images": [
+      "/images/catalog/page_46_img_3.png"
+    ]
+  },
+  {
+    "id": "47-CIRAT-N-68",
+    "name": "Tazas de porcelana de alta calidad",
+    "model": "CIRAT-N",
+    "category": "Café y Té",
+    "price": 399.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "350 ml"
+    ],
+    "attributes": [],
+    "description": "3. Tazas de porcelana de alta calidad Capacidad: 350 ml 4 piezas $399.00",
+    "page": 47,
+    "image": "/images/catalog/page_47_img_1.png",
+    "images": [
+      "/images/catalog/page_47_img_1.png"
+    ]
+  },
+  {
+    "id": "47-AMORGIGANTE-69",
+    "name": "Tazas de porcelana Día de las madres",
+    "model": "AMORGIGANTE",
+    "category": "Café y Té",
+    "price": 549.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "450 ml"
+    ],
+    "attributes": [],
+    "description": "4. Tazas de porcelana Día de las madres Capacidad: 450 ml 4 piezas $549.00",
+    "page": 47,
+    "image": "/images/catalog/page_47_img_1.png",
+    "images": [
+      "/images/catalog/page_47_img_1.png"
+    ]
+  },
+  {
+    "id": "48-ALTOAMERICANO-70",
+    "name": "Tazas con platos de porcelana de alta calidad 2 tazas",
+    "model": "ALTOAMERICANO",
+    "category": "Café y Té",
+    "price": 379.0,
+    "pieces": 4,
+    "includedPieces": [
+      "2 tazas",
+      "2 platos"
+    ],
+    "measurements": [
+      "220 ml"
+    ],
+    "attributes": [],
+    "description": "1. Tazas con platos de porcelana de alta calidad Capacidad: 220 ml 4 piezas $379.00 Incluye: 2 tazas 2 platos",
+    "page": 48,
+    "image": "/images/catalog/page_48_img_1.png",
+    "images": [
+      "/images/catalog/page_48_img_1.png"
+    ]
+  },
+  {
+    "id": "48-BOHOWOOD5-71",
+    "name": "Tazas de cerámica de alta calidad",
+    "model": "BOHOWOOD5",
+    "category": "Café y Té",
+    "price": 399.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "350 ml"
+    ],
+    "attributes": [],
+    "description": "2. Tazas de cerámica de alta calidad Capacidad: 350 ml 4 piezas $399.00",
+    "page": 48,
+    "image": "/images/catalog/page_48_img_1.png",
+    "images": [
+      "/images/catalog/page_48_img_1.png"
+    ]
+  },
+  {
+    "id": "49-ALMOND-F-72",
+    "name": "Prensa francesa",
+    "model": "ALMOND-F",
+    "category": "Café y Té",
+    "price": 479.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tapa con filtro",
+      "1 cuerpo de vidrio"
+    ],
+    "measurements": [
+      "800 ml"
+    ],
+    "attributes": [],
+    "description": "Prensa francesa Capacidad: 800 ml 2 piezas $479.00",
+    "page": 49,
+    "image": "/images/catalog/page_49_img_4.png",
+    "images": [
+      "/images/catalog/page_49_img_4.png"
+    ]
+  },
+  {
+    "id": "50-AVINON-73",
+    "name": "con botón de apertura",
+    "model": "AVINON",
+    "category": "Café y Té",
+    "price": 589.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tetera",
+      "1 tapa"
+    ],
+    "measurements": [
+      "3 L"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. Tetera de acero inoxidable con botón de apertura Capacidad: 3 L 2 piezas $589.00",
+    "page": 50,
+    "image": "/images/catalog/page_50_img_3.png",
+    "images": [
+      "/images/catalog/page_50_img_3.png"
+    ]
+  },
+  {
+    "id": "50-GRANADA-74",
+    "name": "Eco friendly 2. Incluye: 2 tazas 2 tapas de bambú",
+    "model": "GRANADA",
+    "category": "Café y Té",
+    "price": 349.0,
+    "pieces": null,
+    "includedPieces": [
+      "2 tazas",
+      "2 tapas de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Eco friendly 2. Incluye: 2 tazas 2 tapas de bambú",
+    "page": 50,
+    "image": "/images/catalog/page_50_img_3.png",
+    "images": [
+      "/images/catalog/page_50_img_3.png"
+    ]
+  },
+  {
+    "id": "51-VITRE-C-75",
+    "name": "Tazas de vidrio de",
+    "model": "VITRE-C",
+    "category": "Café y Té",
+    "price": 499.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "440 ml"
+    ],
+    "attributes": [
+      "Doble pared"
+    ],
+    "description": "3. Tazas de vidrio de doble pared Capacidad: 440 ml 2 piezas $499.00",
+    "page": 51,
+    "image": "/images/catalog/page_51_img_3.png",
+    "images": [
+      "/images/catalog/page_51_img_3.png"
+    ]
+  },
+  {
+    "id": "51-VITRE-L-76",
+    "name": "Tazas de vidrio de",
+    "model": "VITRE-L",
+    "category": "Café y Té",
+    "price": 549.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "380 ml"
+    ],
+    "attributes": [
+      "Doble pared"
+    ],
+    "description": "4. Tazas de vidrio de doble pared Capacidad: 380 ml 2 piezas $549.00",
+    "page": 51,
+    "image": "/images/catalog/page_51_img_3.png",
+    "images": [
+      "/images/catalog/page_51_img_3.png"
+    ]
+  },
+  {
+    "id": "52-OREJITA-77",
+    "name": "Tazas de porcelana de alta calidad",
+    "model": "OREJITA",
+    "category": "Café y Té",
+    "price": 329.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "380 ml"
+    ],
+    "attributes": [],
+    "description": "1. Tazas de porcelana de alta calidad Capacidad: 380 ml 2 piezas $329.00",
+    "page": 52,
+    "image": "/images/catalog/page_52_img_1.png",
+    "images": [
+      "/images/catalog/page_52_img_1.png"
+    ]
+  },
+  {
+    "id": "52-MOONLIGHT-78",
+    "name": "Taza de porcelana de alta calidad",
+    "model": "MOONLIGHT",
+    "category": "Café y Té",
+    "price": 149.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "410 ml"
+    ],
+    "attributes": [],
+    "description": "2. Taza de porcelana de alta calidad Capacidad: 410 ml 1 pieza $149.00",
+    "page": 52,
+    "image": "/images/catalog/page_52_img_1.png",
+    "images": [
+      "/images/catalog/page_52_img_1.png"
+    ]
+  },
+  {
+    "id": "53-DORIAN-79",
+    "name": "Tazas de porcelana",
+    "model": "DORIAN",
+    "category": "Café y Té",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "460 ml"
+    ],
+    "attributes": [],
+    "description": "3. Tazas de porcelana Capacidad: 460 ml 2 piezas $399.00",
+    "page": 53,
+    "image": "/images/catalog/page_53_img_2.png",
+    "images": [
+      "/images/catalog/page_53_img_2.png"
+    ]
+  },
+  {
+    "id": "53-STONE-MUG-80",
+    "name": "Taza de porcelana",
+    "model": "STONE-MUG",
+    "category": "Café y Té",
+    "price": 229.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "500 ml"
+    ],
+    "attributes": [],
+    "description": "4. Taza de porcelana Capacidad: 500 ml 1 pieza $229.00",
+    "page": 53,
+    "image": "/images/catalog/page_53_img_2.png",
+    "images": [
+      "/images/catalog/page_53_img_2.png"
+    ]
+  },
+  {
+    "id": "54-FUSSY-81",
+    "name": "Tazas de porcelana de alta calidad",
+    "model": "FUSSY",
+    "category": "Café y Té",
+    "price": 699.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "400 ml"
+    ],
+    "attributes": [],
+    "description": "1. Tazas de porcelana de alta calidad Capacidad: 400 ml 4 piezas $699.00",
+    "page": 54,
+    "image": "/images/catalog/page_54_img_3.png",
+    "images": [
+      "/images/catalog/page_54_img_3.png"
+    ]
+  },
+  {
+    "id": "54-ERESMAGIA-82",
+    "name": "Taza de porcelana",
+    "model": "ERESMAGIA",
+    "category": "Café y Té",
+    "price": 229.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "460 ml"
+    ],
+    "attributes": [],
+    "description": "2. Taza de porcelana Capacidad: 460 ml 1 pieza $229.00",
+    "page": 54,
+    "image": "/images/catalog/page_54_img_3.png",
+    "images": [
+      "/images/catalog/page_54_img_3.png"
+    ]
+  },
+  {
+    "id": "55-REDANDBLACK-83",
+    "name": "Vasos de porcelana",
+    "model": "REDANDBLACK",
+    "category": "Café y Té",
+    "price": 489.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Vasos de porcelana",
+    "page": 55,
+    "image": "/images/catalog/page_55_img_2.png",
+    "images": [
+      "/images/catalog/page_55_img_2.png"
+    ]
+  },
+  {
+    "id": "55-MOCCALATTE-84",
+    "name": "Vasos de porcelana",
+    "model": "MOCCALATTE",
+    "category": "Café y Té",
+    "price": 489.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Vasos de porcelana",
+    "page": 55,
+    "image": "/images/catalog/page_55_img_1.png",
+    "images": [
+      "/images/catalog/page_55_img_1.png"
+    ]
+  },
+  {
+    "id": "56-HERA-75-85",
+    "name": "Botella de tritán “flores”",
+    "model": "HERA-75",
+    "category": "Café y Té",
+    "price": 349.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 botella",
+      "1 tapa con agarradera",
+      "1 base de silicón remobible"
+    ],
+    "measurements": [
+      "750 ml"
+    ],
+    "attributes": [],
+    "description": "Botella de tritán “flores” Capacidad: 750 ml 3 piezas $349.00",
+    "page": 56,
+    "image": "/images/catalog/page_56_img_2.png",
+    "images": [
+      "/images/catalog/page_56_img_2.png"
+    ]
+  },
+  {
+    "id": "57-MAGIA-12-86",
+    "name": "Botella de tritán “mujer” NO GUARDAN AROMAS",
+    "model": "MAGIA-12",
+    "category": "Café y Té",
+    "price": 399.0,
+    "pieces": 3,
+    "includedPieces": [],
+    "measurements": [
+      "1.2 L"
+    ],
+    "attributes": [],
+    "description": "Botella de tritán “mujer” Capacidad: 1.2 L 3 piezas $399.00 NO GUARDAN AROMAS",
+    "page": 57,
+    "image": "/images/catalog/page_57_img_1.png",
+    "images": [
+      "/images/catalog/page_57_img_1.png"
+    ]
+  },
+  {
+    "id": "58-MAVE1200-F-87",
+    "name": "Vaso térmico de acero inoxidable flores",
+    "model": "MAVE1200-F",
+    "category": "Café y Té",
+    "price": 699.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 asa",
+      "1 popote",
+      "1 vaso térmico",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "1.2 L"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. Vaso térmico de acero inoxidable flores Capacidad: 1.2 L 4 piezas $699.00",
+    "page": 58,
+    "image": "/images/catalog/page_58_img_2.png",
+    "images": [
+      "/images/catalog/page_58_img_2.png"
+    ]
+  },
+  {
+    "id": "58-HEATHER-88",
+    "name": "Botella térmica de tapa y popote",
+    "model": "HEATHER",
+    "category": "Café y Té",
+    "price": 599.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 popote",
+      "1 tapa con boquilla",
+      "1 botella térmica"
+    ],
+    "measurements": [
+      "1 L"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. Botella térmica de acero inoxidable con tapa y popote Capacidad: 1 L 3 piezas $599.00",
+    "page": 58,
+    "image": "/images/catalog/page_58_img_1.png",
+    "images": [
+      "/images/catalog/page_58_img_1.png"
+    ]
+  },
+  {
+    "id": "59-MAVE1200-N-89",
+    "name": "Vaso térmico de acero inoxidable negro",
+    "model": "MAVE1200-N",
+    "category": "Café y Té",
+    "price": 699.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "1.2 L"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "3. Vaso térmico de acero inoxidable negro Capacidad: 1.2 L 4 piezas $699.00",
+    "page": 59,
+    "image": "/images/catalog/page_59_img_1.png",
+    "images": [
+      "/images/catalog/page_59_img_1.png"
+    ]
+  },
+  {
+    "id": "59-MAVE1200-C-90",
+    "name": "Vaso térmico de acero inoxidable café",
+    "model": "MAVE1200-C",
+    "category": "Café y Té",
+    "price": 699.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [
+      "1.2 L"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "4. Vaso térmico de acero inoxidable café Capacidad: 1.2 L 4 piezas $699.00",
+    "page": 59,
+    "image": "/images/catalog/page_59_img_2.png",
+    "images": [
+      "/images/catalog/page_59_img_2.png"
+    ]
+  },
+  {
+    "id": "60-MAVE900-G-91",
+    "name": "Vaso térmico de",
+    "model": "MAVE900-G",
+    "category": "Café y Té",
+    "price": 599.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 popote",
+      "1 vaso térmico",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "900 ml"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. Vaso térmico de acero inoxidable gris Capacidad: 900 ml 3 piezas $599.00",
+    "page": 60,
+    "image": "/images/catalog/page_60_img_1.png",
+    "images": [
+      "/images/catalog/page_60_img_1.png"
+    ]
+  },
+  {
+    "id": "60-MAVE900-L-92",
+    "name": "Vaso térmico de",
+    "model": "MAVE900-L",
+    "category": "Café y Té",
+    "price": 599.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 popote",
+      "1 vaso térmico",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "900 ml"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. Vaso térmico de acero inoxidable lila Capacidad: 900 ml 3 piezas $599.00",
+    "page": 60,
+    "image": "/images/catalog/page_60_img_2.png",
+    "images": [
+      "/images/catalog/page_60_img_2.png"
+    ]
+  },
+  {
+    "id": "61-MAVE900-R-93",
+    "name": "Vaso térmico de acero inoxidable rosa",
+    "model": "MAVE900-R",
+    "category": "Café y Té",
+    "price": 599.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 popote",
+      "1 vaso térmico",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "900 ml"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "3. Vaso térmico de acero inoxidable rosa Capacidad: 900 ml 3 piezas $599.00",
+    "page": 61,
+    "image": "/images/catalog/page_61_img_1.png",
+    "images": [
+      "/images/catalog/page_61_img_1.png"
+    ]
+  },
+  {
+    "id": "61-MAVE900-N-94",
+    "name": "Vaso térmico de acero inoxidable naranja",
+    "model": "MAVE900-N",
+    "category": "Café y Té",
+    "price": 599.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 popote",
+      "1 vaso térmico",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "900 ml"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "4. Vaso térmico de acero inoxidable naranja Capacidad: 900 ml 3 piezas $599.00",
+    "page": 61,
+    "image": "/images/catalog/page_61_img_1.png",
+    "images": [
+      "/images/catalog/page_61_img_1.png"
+    ]
+  },
+  {
+    "id": "62-MAVE560-V-95",
+    "name": "Vaso térmico de acero inoxidable verde",
+    "model": "MAVE560-V",
+    "category": "Café y Té",
+    "price": 499.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 popote",
+      "1 infusor",
+      "1 correa",
+      "1 vaso térmico",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "560 ml"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. Vaso térmico de acero inoxidable verde Capacidad: 560 ml 5 piezas $499.00",
+    "page": 62,
+    "image": "/images/catalog/page_62_img_2.png",
+    "images": [
+      "/images/catalog/page_62_img_2.png"
+    ]
+  },
+  {
+    "id": "62-MAVE560-M-96",
+    "name": "Vaso térmico de acero inoxidable morado",
+    "model": "MAVE560-M",
+    "category": "Café y Té",
+    "price": 499.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 popote",
+      "1 infusor",
+      "1 correa",
+      "1 vaso térmico",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "560 ml"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. Vaso térmico de acero inoxidable morado Capacidad: 560 ml 5 piezas $499.00",
+    "page": 62,
+    "image": "/images/catalog/page_62_img_3.png",
+    "images": [
+      "/images/catalog/page_62_img_3.png"
+    ]
+  },
+  {
+    "id": "63-MAVE650-C-97",
+    "name": "Vaso térmico de acero inoxidable café",
+    "model": "MAVE650-C",
+    "category": "Café y Té",
+    "price": 549.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vaso térmico",
+      "1 tapa rosca",
+      "hermética"
+    ],
+    "measurements": [
+      "650 ml"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "3. Vaso térmico de acero inoxidable café Capacidad: 650 ml 2 piezas $549.00",
+    "page": 63,
+    "image": "/images/catalog/page_63_img_1.png",
+    "images": [
+      "/images/catalog/page_63_img_1.png"
+    ]
+  },
+  {
+    "id": "63-MAVE650-M-98",
+    "name": "Vaso térmico de acero inoxidable morado",
+    "model": "MAVE650-M",
+    "category": "Café y Té",
+    "price": 549.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vaso térmico",
+      "1 tapa rosca",
+      "hermética"
+    ],
+    "measurements": [
+      "650 ml"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "4. Vaso térmico de acero inoxidable morado Capacidad: 650 ml 2 piezas $549.00",
+    "page": 63,
+    "image": "/images/catalog/page_63_img_1.png",
+    "images": [
+      "/images/catalog/page_63_img_1.png"
+    ]
+  },
+  {
+    "id": "65-NOMNOM-99",
+    "name": "Mordedera de silicón con broche sujetador",
+    "model": "NOMNOM",
+    "category": "Kids",
+    "price": 269.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 sujetador",
+      "1 mordedera"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Mordedera de silicón con broche sujetador 2 piezas $269.00",
+    "page": 65,
+    "image": "/images/catalog/page_65_img_2.png",
+    "images": [
+      "/images/catalog/page_65_img_2.png"
+    ]
+  },
+  {
+    "id": "66-KODIROSA-100",
+    "name": "Juego de tazón y babero de silicón",
+    "model": "KODIROSA",
+    "category": "Kids",
+    "price": 329.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tazón",
+      "1 babero"
+    ],
+    "measurements": [
+      "330 ml"
+    ],
+    "attributes": [],
+    "description": "Juego de tazón y babero de silicón Capacidad: 330 ml 2 piezas $329.00",
+    "page": 66,
+    "image": "/images/catalog/page_66_img_1.png",
+    "images": [
+      "/images/catalog/page_66_img_1.png"
+    ]
+  },
+  {
+    "id": "67-KODIAZUL-101",
+    "name": "Juego de tazón y babero de silicón",
+    "model": "KODIAZUL",
+    "category": "Kids",
+    "price": 329.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tazón",
+      "1 babero"
+    ],
+    "measurements": [
+      "330 ml"
+    ],
+    "attributes": [],
+    "description": "Juego de tazón y babero de silicón Capacidad: 330 ml 2 piezas $329.00",
+    "page": 67,
+    "image": "/images/catalog/page_67_img_3.png",
+    "images": [
+      "/images/catalog/page_67_img_3.png"
+    ]
+  },
+  {
+    "id": "68-CHIMPAZUL-102",
+    "name": "Vaso entrenador con popote y 2 tapas de silicón",
+    "model": "CHIMPAZUL",
+    "category": "Kids",
+    "price": 299.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 vaso",
+      "1 popote",
+      "1 tapa de succión",
+      "1 tapa para popote"
+    ],
+    "measurements": [
+      "160 ml"
+    ],
+    "attributes": [],
+    "description": "Vaso entrenador con popote y 2 tapas de silicón Capacidad: 160 ml 4 piezas $299.00",
+    "page": 68,
+    "image": "/images/catalog/page_68_img_3.png",
+    "images": [
+      "/images/catalog/page_68_img_3.png"
+    ]
+  },
+  {
+    "id": "69-CHIMPROSA-103",
+    "name": "Vaso entrenador con popote y 2 tapas de silicón",
+    "model": "CHIMPROSA",
+    "category": "Kids",
+    "price": 299.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 vaso",
+      "1 popote",
+      "1 tapa de succión",
+      "1 tapa para popote"
+    ],
+    "measurements": [
+      "160 ml"
+    ],
+    "attributes": [],
+    "description": "Vaso entrenador con popote y 2 tapas de silicón Capacidad: 160 ml 4 piezas $299.00",
+    "page": 69,
+    "image": "/images/catalog/page_69_img_1.png",
+    "images": [
+      "/images/catalog/page_69_img_1.png"
+    ]
+  },
+  {
+    "id": "70-BALIROSA-104",
+    "name": "Juego de plato y cubiertos de silicón",
+    "model": "BALIROSA",
+    "category": "Kids",
+    "price": 349.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 plato",
+      "1 tenedor",
+      "1 cuchara"
+    ],
+    "measurements": [
+      "650 ml"
+    ],
+    "attributes": [],
+    "description": "Juego de plato y cubiertos de silicón Capacidad: 650 ml 3 piezas $349.00",
+    "page": 70,
+    "image": "/images/catalog/page_70_img_1.png",
+    "images": [
+      "/images/catalog/page_70_img_1.png"
+    ]
+  },
+  {
+    "id": "71-BALIAZUL-105",
+    "name": "Juego de plato y cubiertos de silicón",
+    "model": "BALIAZUL",
+    "category": "Kids",
+    "price": 349.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 plato",
+      "1 tenedor",
+      "1 cuchara"
+    ],
+    "measurements": [
+      "650 ml"
+    ],
+    "attributes": [],
+    "description": "Juego de plato y cubiertos de silicón Capacidad: 650 ml 3 piezas $349.00",
+    "page": 71,
+    "image": "/images/catalog/page_71_img_1.png",
+    "images": [
+      "/images/catalog/page_71_img_1.png"
+    ]
+  },
+  {
+    "id": "72-MAXI-106",
+    "name": "Botella de tritán “dinosaurios”",
+    "model": "MAXI",
+    "category": "Kids",
+    "price": 299.0,
+    "pieces": 3,
+    "includedPieces": [],
+    "measurements": [
+      "400 ml"
+    ],
+    "attributes": [],
+    "description": "1. Botella de tritán “dinosaurios” Capacidad: 400 ml 3 piezas $299.00",
+    "page": 72,
+    "image": "/images/catalog/page_72_img_1.png",
+    "images": [
+      "/images/catalog/page_72_img_1.png"
+    ]
+  },
+  {
+    "id": "72-COLBY-107",
+    "name": "Botella de tritán “flores”",
+    "model": "COLBY",
+    "category": "Kids",
+    "price": 299.0,
+    "pieces": 3,
+    "includedPieces": [],
+    "measurements": [
+      "400 ml"
+    ],
+    "attributes": [],
+    "description": "2. Botella de tritán “flores” Capacidad: 400 ml 3 piezas $299.00",
+    "page": 72,
+    "image": "/images/catalog/page_72_img_2.png",
+    "images": [
+      "/images/catalog/page_72_img_2.png"
+    ]
+  },
+  {
+    "id": "72-TOMY-108",
+    "name": "Botella de tritán “nubes”",
+    "model": "TOMY",
+    "category": "Kids",
+    "price": 299.0,
+    "pieces": 3,
+    "includedPieces": [],
+    "measurements": [
+      "400 ml"
+    ],
+    "attributes": [],
+    "description": "3. Botella de tritán “nubes” Capacidad: 400 ml 3 piezas $299.00",
+    "page": 72,
+    "image": "/images/catalog/page_72_img_2.png",
+    "images": [
+      "/images/catalog/page_72_img_2.png"
+    ]
+  },
+  {
+    "id": "74-ALMOND-PG-109",
+    "name": "Parrilla eléctrica tipo prensa",
+    "model": "ALMOND-PG",
+    "category": "Cocina",
+    "price": 2499.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Parrilla eléctrica tipo prensa 1 pieza $2,499.00",
+    "page": 74,
+    "image": "/images/catalog/page_74_img_2.png",
+    "images": [
+      "/images/catalog/page_74_img_2.png"
+    ]
+  },
+  {
+    "id": "76-ALMOND-H-110",
+    "name": "Horno multifuncional",
+    "model": "ALMOND-H",
+    "category": "Cocina",
+    "price": 3799.0,
+    "pieces": 7,
+    "includedPieces": [
+      "1 horno",
+      "1 pinza para charola",
+      "1 canastilla para freÍr",
+      "1 charola para hornear",
+      "2 accesorios para rostizar",
+      "1 bandeja recolectora de residuos"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Horno multifuncional 7 piezas $3,799.00",
+    "page": 76,
+    "image": "/images/catalog/page_76_img_1.png",
+    "images": [
+      "/images/catalog/page_76_img_1.png"
+    ]
+  },
+  {
+    "id": "78-ALMOND-J-111",
+    "name": "Exprimidor de jugos eléctrico",
+    "model": "ALMOND-J",
+    "category": "Cocina",
+    "price": 1799.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 filtro",
+      "2 conos",
+      "1 exprimidor eléctrico",
+      "1 bandeja con filtro removible"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Exprimidor de jugos eléctrico 5 piezas $1,799.00",
+    "page": 78,
+    "image": "/images/catalog/page_78_img_2.png",
+    "images": [
+      "/images/catalog/page_78_img_2.png"
+    ]
+  },
+  {
+    "id": "79-ALMOND-LM-112",
+    "name": "Licuadora multifuncional",
+    "model": "ALMOND-LM",
+    "category": "Cocina",
+    "price": 2899.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 base",
+      "1 jarra",
+      "1 tapa",
+      "1 base con aspas"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Licuadora multifuncional 4 piezas $2,899.00",
+    "page": 79,
+    "image": "/images/catalog/page_79_img_3.png",
+    "images": [
+      "/images/catalog/page_79_img_3.png"
+    ]
+  },
+  {
+    "id": "80-ALMOND-K-113",
+    "name": "Tetera eléctrica de",
+    "model": "ALMOND-K",
+    "category": "Cocina",
+    "price": 1499.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tetera",
+      "1 base"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "Tetera eléctrica de acero inoxidable 2 piezas $1,499.00",
+    "page": 80,
+    "image": "/images/catalog/page_80_img_4.png",
+    "images": [
+      "/images/catalog/page_80_img_4.png"
+    ]
+  },
+  {
+    "id": "81-ALMOND-L-114",
+    "name": "Procesador de alimentos",
+    "model": "ALMOND-L",
+    "category": "Cocina",
+    "price": 1799.0,
+    "pieces": 10,
+    "includedPieces": [
+      "2 tapas",
+      "2 botellas",
+      "2 cuchillas",
+      "1 recipiente",
+      "1 base de licuadora",
+      "2 mangas de silicón"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Procesador de alimentos 10 piezas $1,799.00",
+    "page": 81,
+    "image": "/images/catalog/page_81_img_3.png",
+    "images": [
+      "/images/catalog/page_81_img_3.png"
+    ]
+  },
+  {
+    "id": "82-ALMOND-T-115",
+    "name": "Tostador eléctrico",
+    "model": "ALMOND-T",
+    "category": "Cocina",
+    "price": 1399.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tostador",
+      "1 bandeja para migas"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "Tostador eléctrico de acero inoxidable 2 piezas $1,399.00",
+    "page": 82,
+    "image": "/images/catalog/page_82_img_3.png",
+    "images": [
+      "/images/catalog/page_82_img_3.png"
+    ]
+  },
+  {
+    "id": "83-ALMOND-S-116",
+    "name": "Sandwichera eléctrica con placas intercambiables",
+    "model": "ALMOND-S",
+    "category": "Cocina",
+    "price": 1349.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 sandwichera",
+      "2 placas tipo parrilla",
+      "2 placas tipo sándwich"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Sandwichera eléctrica con placas intercambiables 5 piezas $1,349.00",
+    "page": 83,
+    "image": "/images/catalog/page_83_img_2.png",
+    "images": [
+      "/images/catalog/page_83_img_2.png"
+    ]
+  },
+  {
+    "id": "84-ALMOND-P-117",
+    "name": "Parrilla individual infrarroja de vitrocerámica",
+    "model": "ALMOND-P",
+    "category": "Cocina",
+    "price": 1799.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Parrilla individual infrarroja de vitrocerámica 1 pieza $1,799.00",
+    "page": 84,
+    "image": "/images/catalog/page_84_img_2.png",
+    "images": [
+      "/images/catalog/page_84_img_2.png"
+    ]
+  },
+  {
+    "id": "85-LUCA-118",
+    "name": "Tablas para picar con base",
+    "model": "LUCA",
+    "category": "Cocina",
+    "price": 599.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 base",
+      "1 tabla para pollo",
+      "1 tabla para carnes",
+      "1 tabla para pescado",
+      "1 tabla para alimentos calientes"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Tablas para picar con base 5 piezas $599.00",
+    "page": 85,
+    "image": "/images/catalog/page_85_img_2.png",
+    "images": [
+      "/images/catalog/page_85_img_2.png"
+    ]
+  },
+  {
+    "id": "86-DULCE-C4-119",
+    "name": "Juego de contenedores anidables",
+    "model": "DULCE-C4",
+    "category": "Cocina",
+    "price": 399.0,
+    "pieces": 8,
+    "includedPieces": [
+      "1 tazón de 350 ml",
+      "1 tazón de 650 ml",
+      "1 tazón de 1.2 L",
+      "1 tazón de 2 L",
+      "4 tapas"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Juego de contenedores anidables 8 piezas $399.00",
+    "page": 86,
+    "image": "/images/catalog/page_86_img_3.png",
+    "images": [
+      "/images/catalog/page_86_img_3.png"
+    ]
+  },
+  {
+    "id": "87-DULCE-T1-120",
+    "name": "Tabla para picar doble cara",
+    "model": "DULCE-T1",
+    "category": "Cocina",
+    "price": 449.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Tabla para picar doble cara 1 pieza $449.00",
+    "page": 87,
+    "image": "/images/catalog/page_87_img_3.png",
+    "images": [
+      "/images/catalog/page_87_img_3.png"
+    ]
+  },
+  {
+    "id": "88-DULCE-P-121",
+    "name": "Panera de metal con tapa",
+    "model": "DULCE-P",
+    "category": "Cocina",
+    "price": 699.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tapa",
+      "1 panera"
+    ],
+    "measurements": [
+      "6 L"
+    ],
+    "attributes": [],
+    "description": "1. Panera de metal con tapa Capacidad: 6 L 2 piezas $699.00",
+    "page": 88,
+    "image": "/images/catalog/page_88_img_1.png",
+    "images": [
+      "/images/catalog/page_88_img_1.png"
+    ]
+  },
+  {
+    "id": "88-DULCE-U3-122",
+    "name": "Juego de utensilios de silicón y madera",
+    "model": "DULCE-U3",
+    "category": "Cocina",
+    "price": 349.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 cuchara volteadora",
+      "1 espátula dentada",
+      "1 volteador ranurado"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Juego de utensilios de silicón y madera 3 piezas $349.00",
+    "page": 88,
+    "image": "/images/catalog/page_88_img_3.png",
+    "images": [
+      "/images/catalog/page_88_img_3.png"
+    ]
+  },
+  {
+    "id": "89-DULCE-TM-123",
+    "name": "Taza medidora de vidrio de borosilicato",
+    "model": "DULCE-TM",
+    "category": "Cocina",
+    "price": 479.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "1 L"
+    ],
+    "attributes": [],
+    "description": "3. Taza medidora de vidrio de borosilicato Capacidad: 1 L 1 pieza $479.00",
+    "page": 89,
+    "image": "/images/catalog/page_89_img_1.png",
+    "images": [
+      "/images/catalog/page_89_img_1.png"
+    ]
+  },
+  {
+    "id": "89-BOHO-REP-124",
+    "name": "Globo y espátula de silicón",
+    "model": "BOHO-REP",
+    "category": "Cocina",
+    "price": 229.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Globo y espátula de silicón 2 piezas $229.00",
+    "page": 89,
+    "image": "/images/catalog/page_89_img_2.png",
+    "images": [
+      "/images/catalog/page_89_img_2.png"
+    ]
+  },
+  {
+    "id": "90-STONECUP-125",
+    "name": "Molde de acero y capacillos de silicón para cupcakes",
+    "model": "STONECUP",
+    "category": "Cocina",
+    "price": 399.0,
+    "pieces": 13,
+    "includedPieces": [
+      "1 molde",
+      "12 capacillos"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Molde de acero y capacillos de silicón para cupcakes 13 piezas $399.00",
+    "page": 90,
+    "image": "/images/catalog/page_90_img_2.png",
+    "images": [
+      "/images/catalog/page_90_img_2.png"
+    ]
+  },
+  {
+    "id": "90-LENNA-126",
+    "name": "Juego de coladores dorado",
+    "model": "LENNA",
+    "category": "Cocina",
+    "price": 379.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 molde",
+      "12 capacillos"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. Juego de coladores de acero inoxidable dorado 3 piezas $379.00",
+    "page": 90,
+    "image": "/images/catalog/page_90_img_2.png",
+    "images": [
+      "/images/catalog/page_90_img_2.png"
+    ]
+  },
+  {
+    "id": "91-TEDDY-BAN-127",
+    "name": "Bandeja de bambú con tapa de oso navideño",
+    "model": "TEDDY-BAN",
+    "category": "Cocina",
+    "price": 899.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Bandeja de bambú con tapa de oso navideño 2 piezas $899.00",
+    "page": 91,
+    "image": "/images/catalog/page_91_img_4.png",
+    "images": [
+      "/images/catalog/page_91_img_4.png"
+    ]
+  },
+  {
+    "id": "92-ALMOND-MR-128",
+    "name": "Molde de silicón rectangular",
+    "model": "ALMOND-MR",
+    "category": "Cocina",
+    "price": 429.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Molde de silicón rectangular",
+    "page": 92,
+    "image": "/images/catalog/page_92_img_1.png",
+    "images": [
+      "/images/catalog/page_92_img_1.png"
+    ]
+  },
+  {
+    "id": "92-ALMOND-MC-129",
+    "name": "Molde de silicón redondo con marco de acero",
+    "model": "ALMOND-MC",
+    "category": "Cocina",
+    "price": 449.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Molde de silicón redondo con marco de acero 1 pieza $449.00",
+    "page": 92,
+    "image": "/images/catalog/page_92_img_1.png",
+    "images": [
+      "/images/catalog/page_92_img_1.png"
+    ]
+  },
+  {
+    "id": "93-ALMOND-B-130",
+    "name": "Báscula digital de vidrio con juego de cucharas medidoras",
+    "model": "ALMOND-B",
+    "category": "Cocina",
+    "price": 449.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 cucharada",
+      "1 cucharadita",
+      "1/2 cucharadita",
+      "1/4 cucharadita",
+      "1 báscula digital"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Báscula digital de vidrio con juego de cucharas medidoras 5 piezas $449.00",
+    "page": 93,
+    "image": "/images/catalog/page_93_img_1.png",
+    "images": [
+      "/images/catalog/page_93_img_1.png"
+    ]
+  },
+  {
+    "id": "93-STONECK-131",
+    "name": "Molde para hornear tipo rosca",
+    "model": "STONECK",
+    "category": "Cocina",
+    "price": 299.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Molde para hornear tipo rosca 1 pieza $299.00",
+    "page": 93,
+    "image": "/images/catalog/page_93_img_2.png",
+    "images": [
+      "/images/catalog/page_93_img_2.png"
+    ]
+  },
+  {
+    "id": "94-BISTRO-3-132",
+    "name": "Juego de refractarios de cerámica",
+    "model": "BISTRO-3",
+    "category": "Cocina",
+    "price": 1499.0,
+    "pieces": 3,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. 1. Juego de refractarios de cerámica 3 piezas $1,499.00",
+    "page": 94,
+    "image": "/images/catalog/page_94_img_3.png",
+    "images": [
+      "/images/catalog/page_94_img_3.png"
+    ]
+  },
+  {
+    "id": "94-BISTRO-6-133",
+    "name": "Juego de ramekines de cerámica",
+    "model": "BISTRO-6",
+    "category": "Cocina",
+    "price": 549.0,
+    "pieces": 6,
+    "includedPieces": [],
+    "measurements": [
+      "245 ml"
+    ],
+    "attributes": [],
+    "description": "2. Juego de ramekines de cerámica Capacidad: 245 ml 6 piezas $549.00",
+    "page": 94,
+    "image": "/images/catalog/page_94_img_3.png",
+    "images": [
+      "/images/catalog/page_94_img_3.png"
+    ]
+  },
+  {
+    "id": "95-MOKA-C2L-134",
+    "name": "Refractario cuadrado de vidrio",
+    "model": "MOKA-C2L",
+    "category": "Cocina",
+    "price": 449.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "2.4 L"
+    ],
+    "attributes": [],
+    "description": "Refractario cuadrado de vidrio Capacidad: 2.4 L 1 pieza $449.00",
+    "page": 95,
+    "image": "/images/catalog/page_95_img_2.png",
+    "images": [
+      "/images/catalog/page_95_img_2.png"
+    ]
+  },
+  {
+    "id": "96-MOKA370-135",
+    "name": "Contenedor rectangular de vidrio con tapa hermética",
+    "model": "MOKA370",
+    "category": "Cocina",
+    "price": 149.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 contenedor de vidrio",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "370 ml"
+    ],
+    "attributes": [],
+    "description": "1. Contenedor rectangular de vidrio con tapa hermética Capacidad: 370 ml 2 piezas $149.00",
+    "page": 96,
+    "image": "/images/catalog/page_96_img_1.png",
+    "images": [
+      "/images/catalog/page_96_img_1.png"
+    ]
+  },
+  {
+    "id": "96-MOKA630-136",
+    "name": "Contenedor rectangular de vidrio con tapa hermética",
+    "model": "MOKA630",
+    "category": "Cocina",
+    "price": 199.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 contenedor de vidrio",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "630 ml"
+    ],
+    "attributes": [],
+    "description": "2. Contenedor rectangular de vidrio con tapa hermética Capacidad: 630 ml 2 piezas $199.00",
+    "page": 96,
+    "image": "/images/catalog/page_96_img_2.png",
+    "images": [
+      "/images/catalog/page_96_img_2.png"
+    ]
+  },
+  {
+    "id": "97-MOKA1040-137",
+    "name": "Contenedor rectangular de vidrio con tapa hermética",
+    "model": "MOKA1040",
+    "category": "Cocina",
+    "price": 299.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 contenedor de vidrio",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "1.04 L"
+    ],
+    "attributes": [],
+    "description": "3. Contenedor rectangular de vidrio con tapa hermética Capacidad: 1.04 L 2 piezas $299.00",
+    "page": 97,
+    "image": "/images/catalog/page_97_img_1.png",
+    "images": [
+      "/images/catalog/page_97_img_1.png"
+    ]
+  },
+  {
+    "id": "97-MOKA1520-138",
+    "name": "Contenedor rectangular de vidrio con tapa hermética",
+    "model": "MOKA1520",
+    "category": "Cocina",
+    "price": 349.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 contenedor de vidrio",
+      "1 tapa hermética"
+    ],
+    "measurements": [
+      "1.52 L"
+    ],
+    "attributes": [],
+    "description": "4. Contenedor rectangular de vidrio con tapa hermética Capacidad: 1.52 L 2 piezas $349.00",
+    "page": 97,
+    "image": "/images/catalog/page_97_img_2.png",
+    "images": [
+      "/images/catalog/page_97_img_2.png"
+    ]
+  },
+  {
+    "id": "98-MOKASET-139",
+    "name": "Juego de 4 contenedores rectangulares de vidrio con tapa hermética",
+    "model": "MOKASET",
+    "category": "Cocina",
+    "price": 999.0,
+    "pieces": 8,
+    "includedPieces": [
+      "1 contenedor de 370 ml y tapa (2 pzas)",
+      "1 contenedor de 630 ml y tapa (2 pzas)",
+      "1 contenedor de 1.04 L y tapa (2 pzas)",
+      "1 contenedor de 1.52 L y tapa (2 pzas)"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Juego de 4 contenedores rectangulares de vidrio con tapa hermética 8 piezas $999.00",
+    "page": 98,
+    "image": "/images/catalog/page_98_img_2.png",
+    "images": [
+      "/images/catalog/page_98_img_2.png"
+    ]
+  },
+  {
+    "id": "99-BOHOPINK3-140",
+    "name": "Contenedores de vidrio de borosilicato con tapa de madera de acacia",
+    "model": "BOHOPINK3",
+    "category": "Cocina",
+    "price": 699.0,
+    "pieces": 6,
+    "includedPieces": [
+      "3 recipientes",
+      "3 tapas de madera",
+      "de acacia"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Contenedores de vidrio de borosilicato con tapa de madera de acacia 6 piezas $699.00",
+    "page": 99,
+    "image": "/images/catalog/page_99_img_2.png",
+    "images": [
+      "/images/catalog/page_99_img_2.png"
+    ]
+  },
+  {
+    "id": "99-DALIA-141",
+    "name": "Mortero de madera de acacia",
+    "model": "DALIA",
+    "category": "Cocina",
+    "price": 499.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 mortero",
+      "1 machacador"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Mortero de madera de acacia 2 piezas $499.00",
+    "page": 99,
+    "image": "/images/catalog/page_99_img_3.png",
+    "images": [
+      "/images/catalog/page_99_img_3.png"
+    ]
+  },
+  {
+    "id": "100-ALMA-PAN-142",
+    "name": "Panera de metal con tapa",
+    "model": "ALMA-PAN",
+    "category": "Cocina",
+    "price": 649.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tapa",
+      "1 panera"
+    ],
+    "measurements": [
+      "6 L"
+    ],
+    "attributes": [],
+    "description": "1. Panera de metal con tapa Capacidad: 6 L 2 piezas $649.00",
+    "page": 100,
+    "image": "/images/catalog/page_100_img_1.png",
+    "images": [
+      "/images/catalog/page_100_img_1.png"
+    ]
+  },
+  {
+    "id": "100-ALMA-CRISP-143",
+    "name": "Galletero de metal con tapa",
+    "model": "ALMA-CRISP",
+    "category": "Cocina",
+    "price": 599.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tapa",
+      "1 galletero"
+    ],
+    "measurements": [
+      "3 L"
+    ],
+    "attributes": [],
+    "description": "2. Galletero de metal con tapa Capacidad: 3 L 2 piezas $599.00",
+    "page": 100,
+    "image": "/images/catalog/page_100_img_2.png",
+    "images": [
+      "/images/catalog/page_100_img_2.png"
+    ]
+  },
+  {
+    "id": "101-ALMA-SET-144",
+    "name": "Contenedores de metal con tapa",
+    "model": "ALMA-SET",
+    "category": "Cocina",
+    "price": 499.0,
+    "pieces": 6,
+    "includedPieces": [
+      "3 tapas",
+      "3 contenedores"
+    ],
+    "measurements": [
+      "700 ml"
+    ],
+    "attributes": [],
+    "description": "3. Contenedores de metal con tapa Capacidad: 700 ml 6 piezas $499.00",
+    "page": 101,
+    "image": "/images/catalog/page_101_img_2.png",
+    "images": [
+      "/images/catalog/page_101_img_2.png"
+    ]
+  },
+  {
+    "id": "101-NATURAL-F-145",
+    "name": "Frutero de acero y bambú",
+    "model": "NATURAL-F",
+    "category": "Cocina",
+    "price": 499.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. 4. Frutero de acero y bambú 1 pieza $499.00",
+    "page": 101,
+    "image": "/images/catalog/page_101_img_1.png",
+    "images": [
+      "/images/catalog/page_101_img_1.png"
+    ]
+  },
+  {
+    "id": "102-JOANA-146",
+    "name": "Escurridor giratorio para verduras",
+    "model": "JOANA",
+    "category": "Cocina",
+    "price": 649.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 tapa",
+      "1 escurridor",
+      "1 recipiente"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Escurridor giratorio para verduras 3 piezas $649.00",
+    "page": 102,
+    "image": "/images/catalog/page_102_img_2.png",
+    "images": [
+      "/images/catalog/page_102_img_2.png"
+    ]
+  },
+  {
+    "id": "103-VITTA2-147",
+    "name": "Rallador con 4 cuchillas multicorte y contenedor",
+    "model": "VITTA2",
+    "category": "Cocina",
+    "price": 599.0,
+    "pieces": 7,
+    "includedPieces": [
+      "1 rallador",
+      "1 contenedor",
+      "1 mango de seguridad",
+      "4 cuchillas multicorte",
+      "intercambiables"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Rallador con 4 cuchillas multicorte y contenedor 7 piezas $599.00",
+    "page": 103,
+    "image": "/images/catalog/page_103_img_2.png",
+    "images": [
+      "/images/catalog/page_103_img_2.png"
+    ]
+  },
+  {
+    "id": "104-DENIA-S-148",
+    "name": "Bowl con colador",
+    "model": "DENIA-S",
+    "category": "Cocina",
+    "price": 269.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 bowl",
+      "1 colador"
+    ],
+    "measurements": [
+      "2 L"
+    ],
+    "attributes": [],
+    "description": "1. Bowl con colador Capacidad: 2 L 2 piezas $269.00",
+    "page": 104,
+    "image": "/images/catalog/page_104_img_2.png",
+    "images": [
+      "/images/catalog/page_104_img_2.png"
+    ]
+  },
+  {
+    "id": "104-ALMERIA-149",
+    "name": "Aceitera de vidrio con dispensador en chorro y spray",
+    "model": "ALMERIA",
+    "category": "Cocina",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tapa dispensador",
+      "1 contenedor de vidrio"
+    ],
+    "measurements": [
+      "550 ml"
+    ],
+    "attributes": [],
+    "description": "2. Aceitera de vidrio con dispensador en chorro y spray Capacidad: 550 ml 2 piezas $399.00",
+    "page": 104,
+    "image": "/images/catalog/page_104_img_2.png",
+    "images": [
+      "/images/catalog/page_104_img_2.png"
+    ]
+  },
+  {
+    "id": "105-NATURAL-E-150",
+    "name": "Eco friendly Incluye : 1 tenedor 1 cuchara 1 contenedor 1 tapa de bambú",
+    "model": "NATURAL-E",
+    "category": "Cocina",
+    "price": 599.0,
+    "pieces": null,
+    "includedPieces": [
+      "1 tenedor",
+      "1 cuchara",
+      "1 contenedor",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Eco friendly Incluye : 1 tenedor 1 cuchara 1 contenedor 1 tapa de bambú",
+    "page": 105,
+    "image": "/images/catalog/page_105_img_2.png",
+    "images": [
+      "/images/catalog/page_105_img_2.png"
+    ]
+  },
+  {
+    "id": "105-NATURALCOOK2-151",
+    "name": "Molino doble de bambú",
+    "model": "NATURALCOOK2",
+    "category": "Cocina",
+    "price": 699.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 contenedor doble",
+      "2 cabezales de molino",
+      "2 tapas"
+    ],
+    "measurements": [
+      "140 ml"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "4. Molino doble de bambú y acero inoxidable Capacidad: 140 ml 5 piezas $699.00",
+    "page": 105,
+    "image": "/images/catalog/page_105_img_1.png",
+    "images": [
+      "/images/catalog/page_105_img_1.png"
+    ]
+  },
+  {
+    "id": "106-LUXORCRA-152",
+    "name": "Cuchara de nylon con cubierta de silicón",
+    "model": "LUXORCRA",
+    "category": "Cocina",
+    "price": 149.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Cuchara de nylon con cubierta de silicón 1 pieza $149.00",
+    "page": 106,
+    "image": "/images/catalog/page_106_img_1.png",
+    "images": [
+      "/images/catalog/page_106_img_1.png"
+    ]
+  },
+  {
+    "id": "106-LUXORVOL-153",
+    "name": "Volteador de nylon con cubierta de silicón",
+    "model": "LUXORVOL",
+    "category": "Cocina",
+    "price": 149.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Volteador de nylon con cubierta de silicón 1 pieza $149.00",
+    "page": 106,
+    "image": "/images/catalog/page_106_img_2.png",
+    "images": [
+      "/images/catalog/page_106_img_2.png"
+    ]
+  },
+  {
+    "id": "107-LUXORCRN-154",
+    "name": "Cucharón de nylon con cubierta de silicón",
+    "model": "LUXORCRN",
+    "category": "Cocina",
+    "price": 149.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Cucharón de nylon con cubierta de silicón 1 pieza $149.00",
+    "page": 107,
+    "image": "/images/catalog/page_107_img_2.png",
+    "images": [
+      "/images/catalog/page_107_img_2.png"
+    ]
+  },
+  {
+    "id": "107-LUXORSPA-155",
+    "name": "Cuchara escurridora de nylon con cubierta de silicón",
+    "model": "LUXORSPA",
+    "category": "Cocina",
+    "price": 149.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Cuchara escurridora de nylon con cubierta de silicón 1 pieza $149.00",
+    "page": 107,
+    "image": "/images/catalog/page_107_img_1.png",
+    "images": [
+      "/images/catalog/page_107_img_1.png"
+    ]
+  },
+  {
+    "id": "108-PAULA-156",
+    "name": "Juego de cuchillos y utensilios con base",
+    "model": "PAULA",
+    "category": "Cocina",
+    "price": 1499.0,
+    "pieces": 16,
+    "includedPieces": [
+      "1 base",
+      "1 tijeras",
+      "1 pinzas",
+      "1 cuchillo filetero",
+      "1 cuchillo pelador",
+      "1 cuchillo utilitario",
+      "1 cuchillo para pan",
+      "1 cuchillo para chef"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Juego de cuchillos y utensilios con base 16 piezas $1,499.00",
+    "page": 108,
+    "image": "/images/catalog/page_108_img_1.png",
+    "images": [
+      "/images/catalog/page_108_img_1.png"
+    ]
+  },
+  {
+    "id": "110-BOSCO-C-157",
+    "name": "Juego de cuchillos y tablas para picar",
+    "model": "BOSCO-C",
+    "category": "Cocina",
+    "price": 1099.0,
+    "pieces": 8,
+    "includedPieces": [
+      "1 base organizadora",
+      "1 cuchillo chef de 31.8 cm",
+      "1 cuchillo rebanador de 31.8 cm",
+      "1 cuchillo utilitario 24 cm",
+      "1 cuchillo mondador 20.5 cm",
+      "1 tabla grande de 31.8 x 20.8 cm",
+      "1 tabla mediana de 30x 20 cm",
+      "1 tabla chica de 28.2 x 19 cm"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "Juego de cuchillos de acero inoxidable y tablas para picar 8 piezas $1,099.00",
+    "page": 110,
+    "image": "/images/catalog/page_110_img_3.png",
+    "images": [
+      "/images/catalog/page_110_img_3.png"
+    ]
+  },
+  {
+    "id": "111-BLANC-C6-158",
+    "name": "Juego de cuchillos profesionales de",
+    "model": "BLANC-C6",
+    "category": "Cocina",
+    "price": 1199.0,
+    "pieces": 6,
+    "includedPieces": [
+      "1 cuchillo rebanador de 31.8 cm",
+      "1 cuchillo para pan de 31.8 cm",
+      "1 cuchillo chef de 31.8 cm",
+      "1 cuchillo santoku de 31 cm",
+      "1 cuchillo utilitario de 24 cm",
+      "1 cuchillo mondador 20.5 cm"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "Juego de cuchillos profesionales de acero inoxidable 6 piezas $1,199.00",
+    "page": 111,
+    "image": "/images/catalog/page_111_img_2.png",
+    "images": [
+      "/images/catalog/page_111_img_2.png"
+    ]
+  },
+  {
+    "id": "112-REDVELVET52-159",
+    "name": "Juego de cuchillos y pelador",
+    "model": "REDVELVET52",
+    "category": "Cocina",
+    "price": 549.0,
+    "pieces": 6,
+    "includedPieces": [
+      "1 pelador",
+      "1 cuchillo para pan 31.5 cm",
+      "1 cuchillo para chef 31.5 cm",
+      "1 cuchillo para fruta 19.2 cm",
+      "1 cuchillo para cocina 23 cm",
+      "1 cuchillo para filetes 31.5 cm"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. 1. Juego de cuchillos de acero inoxidable y pelador 6 piezas $549.00",
+    "page": 112,
+    "image": "/images/catalog/page_112_img_1.png",
+    "images": [
+      "/images/catalog/page_112_img_1.png"
+    ]
+  },
+  {
+    "id": "112-CHARPI-160",
+    "name": "Afilador para cuchillos",
+    "model": "CHARPI",
+    "category": "Cocina",
+    "price": 269.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. Afilador para cuchillos de acero inoxidable 1 pieza $269.00",
+    "page": 112,
+    "image": "/images/catalog/page_112_img_2.png",
+    "images": [
+      "/images/catalog/page_112_img_2.png"
+    ]
+  },
+  {
+    "id": "113-BOHO-SET-161",
+    "name": "Juego de cuchillos",
+    "model": "BOHO-SET",
+    "category": "Cocina",
+    "price": 629.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 cuchillo filetero de 33 cm",
+      "1 cuchillo para pan de 33 cm",
+      "1 cuchillo pelador de 19.5 cm",
+      "1 cuchillo para chef de 33 cm",
+      "1 cuchillo multiusos de 23.5 cm"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "3. Juego de cuchillos de acero inoxidable 5 piezas $629.00",
+    "page": 113,
+    "image": "/images/catalog/page_113_img_2.png",
+    "images": [
+      "/images/catalog/page_113_img_2.png"
+    ]
+  },
+  {
+    "id": "113-TENDER6-162",
+    "name": "Juego de cuchillos con",
+    "model": "TENDER6",
+    "category": "Cocina",
+    "price": 599.0,
+    "pieces": 6,
+    "includedPieces": [
+      "1 cuchillo filetero de 33 cm",
+      "1 cuchillo pelador de 24 cm",
+      "1 cuchillo para pan de 33 cm",
+      "1 tijeras de cocina de 19.6 cm",
+      "1 cuchillo para chef de 33 cm",
+      "1 cuchillo multiusos de 20 cm"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "4. Juego de cuchillos con tijeras de acero inoxidable 6 piezas $599.00",
+    "page": 113,
+    "image": "/images/catalog/page_113_img_2.png",
+    "images": [
+      "/images/catalog/page_113_img_2.png"
+    ]
+  },
+  {
+    "id": "114-ONIXSET-163",
+    "name": "Juego de cuchillos",
+    "model": "ONIXSET",
+    "category": "Cocina",
+    "price": 599.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 cuchillo filetero de 33 cm",
+      "1 cuchillo pelador de 19.5 cm",
+      "1 cuchillo para pan de 33 cm",
+      "1 cuchillo para chef de 33 cm",
+      "1 cuchillo multiusos de 23.5 cm"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. Juego de cuchillos de acero inoxidable 5 piezas $599.00",
+    "page": 114,
+    "image": "/images/catalog/page_114_img_2.png",
+    "images": [
+      "/images/catalog/page_114_img_2.png"
+    ]
+  },
+  {
+    "id": "114-CASATECA-164",
+    "name": "Juego de tablas teca para picar",
+    "model": "CASATECA",
+    "category": "Cocina",
+    "price": 599.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 tabla chica de 20 x 15 x 1 cm",
+      "1 tabla mediana de 28 x 20 x 1 cm",
+      "1 tabla grande de 33 x 24 x 1 cm"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Juego de tablas teca para picar 3 piezas $599.00",
+    "page": 114,
+    "image": "/images/catalog/page_114_img_1.png",
+    "images": [
+      "/images/catalog/page_114_img_1.png"
+    ]
+  },
+  {
+    "id": "115-BLANC-C-165",
+    "name": "Juego de cuchillos profesionales con base de madera",
+    "model": "BLANC-C",
+    "category": "Cocina",
+    "price": 1899.0,
+    "pieces": 6,
+    "includedPieces": [
+      "1 cuchillo filetero de 33 cm",
+      "1 cuchillo pelador de 20 cm",
+      "1 cuchillo utilitario de 24 cm",
+      "1 cuchillo para pan de 33 cm",
+      "1 cuchillo para chef de 33 cm",
+      "1 base de madera de 21.5 x 10.5",
+      "x 12 cm"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Juego de cuchillos profesionales con base de madera 6 piezas $1,899.00",
+    "page": 115,
+    "image": "/images/catalog/page_115_img_2.png",
+    "images": [
+      "/images/catalog/page_115_img_2.png"
+    ]
+  },
+  {
+    "id": "116-GRILLMASTER-166",
+    "name": "Juego de utensilios para",
+    "model": "GRILLMASTER",
+    "category": "Cocina",
+    "price": 999.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Juego de utensilios para",
+    "page": 116,
+    "image": "/images/catalog/page_116_img_2.png",
+    "images": [
+      "/images/catalog/page_116_img_2.png"
+    ]
+  },
+  {
+    "id": "117-COSMOS-C-167",
+    "name": "Parrilla eléctrica con termostato",
+    "model": "COSMOS-C",
+    "category": "Cocina",
+    "price": 1299.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Parrilla eléctrica con termostato 2 piezas $1,299.00",
+    "page": 117,
+    "image": "/images/catalog/page_117_img_2.png",
+    "images": [
+      "/images/catalog/page_117_img_2.png"
+    ]
+  },
+  {
+    "id": "118-TYLOR-168",
+    "name": "Utensilios de nylon con rack giratorio",
+    "model": "TYLOR",
+    "category": "Cocina",
+    "price": 549.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 rack giratorio",
+      "1 cuchara 31 cm",
+      "1 cucharón 30 cm",
+      "1 espumadera 31 cm",
+      "1 volteador ranurado 31 cm"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Utensilios de nylon con rack giratorio 5 piezas $549.00",
+    "page": 118,
+    "image": "/images/catalog/page_118_img_1.png",
+    "images": [
+      "/images/catalog/page_118_img_1.png"
+    ]
+  },
+  {
+    "id": "118-MARCELLO-169",
+    "name": "Carrito organizador de acero de 3 niveles",
+    "model": "MARCELLO",
+    "category": "Cocina",
+    "price": 699.0,
+    "pieces": 13,
+    "includedPieces": [
+      "2 marcos",
+      "3 bandejas",
+      "4 ganchos",
+      "4 ruedas"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Carrito organizador de acero de 3 niveles 13 piezas $699.00",
+    "page": 118,
+    "image": "/images/catalog/page_118_img_2.png",
+    "images": [
+      "/images/catalog/page_118_img_2.png"
+    ]
+  },
+  {
+    "id": "119-KOTTER-2-170",
+    "name": "Procesador manual de alimentos con mecanismo de cuerda",
+    "model": "KOTTER-2",
+    "category": "Cocina",
+    "price": 399.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 cuchilla",
+      "1 contenedor",
+      "1 tapa con cuerda"
+    ],
+    "measurements": [
+      "400 ml"
+    ],
+    "attributes": [],
+    "description": "3. Procesador manual de alimentos con mecanismo de cuerda Capacidad: 400 ml 3 piezas $399.00",
+    "page": 119,
+    "image": "/images/catalog/page_119_img_2.png",
+    "images": [
+      "/images/catalog/page_119_img_2.png"
+    ]
+  },
+  {
+    "id": "119-NATURALCOOK1-171",
+    "name": "Cajón organizador de bambú",
+    "model": "NATURALCOOK1",
+    "category": "Cocina",
+    "price": 449.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Cajón organizador de bambú 1 pieza $449.00",
+    "page": 119,
+    "image": "/images/catalog/page_119_img_2.png",
+    "images": [
+      "/images/catalog/page_119_img_2.png"
+    ]
+  },
+  {
+    "id": "120-BOHOWG27-172",
+    "name": "Machacador de nylon con mango estilo madera",
+    "model": "BOHOWG27",
+    "category": "Cocina",
+    "price": 159.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Machacador de nylon con mango estilo madera 1 pieza $159.00",
+    "page": 120,
+    "image": "/images/catalog/page_120_img_1.png",
+    "images": [
+      "/images/catalog/page_120_img_1.png"
+    ]
+  },
+  {
+    "id": "120-BOHOWG6-173",
+    "name": "Sacacorchos de metal y PP",
+    "model": "BOHOWG6",
+    "category": "Cocina",
+    "price": 289.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Sacacorchos de metal y PP 1 pieza $289.00",
+    "page": 120,
+    "image": "/images/catalog/page_120_img_3.png",
+    "images": [
+      "/images/catalog/page_120_img_3.png"
+    ]
+  },
+  {
+    "id": "121-BOHOWG16-174",
+    "name": "Rallador vertical de 4 lados contenedor con tapa",
+    "model": "BOHOWG16",
+    "category": "Cocina",
+    "price": 249.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 rallador",
+      "1 contenedor con tapa (2 pzas)"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "3. Rallador vertical de 4 lados de acero inoxidable y contenedor con tapa 3 piezas $249.00",
+    "page": 121,
+    "image": "/images/catalog/page_121_img_1.png",
+    "images": [
+      "/images/catalog/page_121_img_1.png"
+    ]
+  },
+  {
+    "id": "121-STACKNOB-175",
+    "name": "Agarradera de succión para tapa de cacerolas Practicook",
+    "model": "STACKNOB",
+    "category": "Cocina",
+    "price": 199.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Agarradera de succión para tapa de cacerolas Practicook 1 pieza $199.00 4.",
+    "page": 121,
+    "image": "/images/catalog/page_121_img_2.png",
+    "images": [
+      "/images/catalog/page_121_img_2.png"
+    ]
+  },
+  {
+    "id": "122-BOHOWG7-176",
+    "name": "Triturador de ajos de",
+    "model": "BOHOWG7",
+    "category": "Cocina",
+    "price": 159.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. Triturador de ajos de PP y acero inoxidable 1 pieza $159.00",
+    "page": 122,
+    "image": "/images/catalog/page_122_img_2.png",
+    "images": [
+      "/images/catalog/page_122_img_2.png"
+    ]
+  },
+  {
+    "id": "122-BOHOWG5-177",
+    "name": "Pinzas de acero inoxidable y silicón",
+    "model": "BOHOWG5",
+    "category": "Cocina",
+    "price": 169.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. Pinzas de acero inoxidable y silicón 1 pieza $169.00",
+    "page": 122,
+    "image": "/images/catalog/page_122_img_1.png",
+    "images": [
+      "/images/catalog/page_122_img_1.png"
+    ]
+  },
+  {
+    "id": "123-BOHOWG10-178",
+    "name": "Pelador de acero inoxidable y mango estilo madera",
+    "model": "BOHOWG10",
+    "category": "Cocina",
+    "price": 129.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "3. Pelador de acero inoxidable y mango estilo madera 1 pieza $129.00",
+    "page": 123,
+    "image": "/images/catalog/page_123_img_1.png",
+    "images": [
+      "/images/catalog/page_123_img_1.png"
+    ]
+  },
+  {
+    "id": "123-BOHOWG8-179",
+    "name": "Acero inoxidable Exprimidor de",
+    "model": "BOHOWG8",
+    "category": "Cocina",
+    "price": 199.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "Acero inoxidable 4. 4. Exprimidor de acero inoxidable 1 pieza $199.00",
+    "page": 123,
+    "image": "/images/catalog/page_123_img_2.png",
+    "images": [
+      "/images/catalog/page_123_img_2.png"
+    ]
+  },
+  {
+    "id": "124-BOHOWG26-180",
+    "name": "Tijeras multiusos de",
+    "model": "BOHOWG26",
+    "category": "Cocina",
+    "price": 129.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. Tijeras multiusos de acero inoxidable 1 pieza $129.00",
+    "page": 124,
+    "image": "/images/catalog/page_124_img_2.png",
+    "images": [
+      "/images/catalog/page_124_img_2.png"
+    ]
+  },
+  {
+    "id": "124-BOHOWG1-181",
+    "name": "Abrelatas multiusos mango antiderrapante",
+    "model": "BOHOWG1",
+    "category": "Cocina",
+    "price": 199.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. Abrelatas multiusos de acero inoxidable y mango antiderrapante 1 pieza $199.00",
+    "page": 124,
+    "image": "/images/catalog/page_124_img_1.png",
+    "images": [
+      "/images/catalog/page_124_img_1.png"
+    ]
+  },
+  {
+    "id": "125-NAMI-FILTROS-182",
+    "name": "Juego de 3 filtros de carbono para agua",
+    "model": "NAMI-FILTROS",
+    "category": "Cocina",
+    "price": 649.0,
+    "pieces": 3,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Juego de 3 filtros de carbono para agua 3 piezas $649.00",
+    "page": 125,
+    "image": "/images/catalog/page_125_img_2.png",
+    "images": [
+      "/images/catalog/page_125_img_2.png"
+    ]
+  },
+  {
+    "id": "126-NAMI-JARRA-183",
+    "name": "Jarra con filtro de carbono para agua",
+    "model": "NAMI-JARRA",
+    "category": "Cocina",
+    "price": 899.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 jarra",
+      "1 tapa",
+      "1 depósito",
+      "1 filtro de carbono"
+    ],
+    "measurements": [
+      "3.5 L"
+    ],
+    "attributes": [],
+    "description": "Jarra con filtro de carbono para agua Capacidad: 3.5 L 4 piezas $899.00",
+    "page": 126,
+    "image": "/images/catalog/page_126_img_1.png",
+    "images": [
+      "/images/catalog/page_126_img_1.png"
+    ]
+  },
+  {
+    "id": "128-NAMI-TAP-184",
+    "name": "Dispensador de agua con filtro",
+    "model": "NAMI-TAP",
+    "category": "Cocina",
+    "price": 1899.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 tapa",
+      "1 llave",
+      "1 depósito",
+      "1 dispensador",
+      "1 filtro"
+    ],
+    "measurements": [
+      "8.5 L"
+    ],
+    "attributes": [],
+    "description": "Dispensador de agua con filtro Capacidad: 8.5 L 5 piezas $1,899.00",
+    "page": 128,
+    "image": "/images/catalog/page_128_img_2.png",
+    "images": [
+      "/images/catalog/page_128_img_2.png"
+    ]
+  },
+  {
+    "id": "130-FRANCISCA-185",
+    "name": "Escurridor para platos expandible",
+    "model": "FRANCISCA",
+    "category": "Cocina",
+    "price": 999.0,
+    "pieces": 12,
+    "includedPieces": [
+      "1 porta cubiertos",
+      "1 rack portavasos",
+      "1 rack portaplatos",
+      "1 desagüe",
+      "1 base escurridora",
+      "expandible ( 1 base",
+      "y cuerpo)",
+      "6 pies de apoyo"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Escurridor para platos expandible 12 piezas $999.00",
+    "page": 130,
+    "image": "/images/catalog/page_130_img_3.png",
+    "images": [
+      "/images/catalog/page_130_img_3.png"
+    ]
+  },
+  {
+    "id": "131-EMILIA-T-186",
+    "name": "Juego de tapetes para tarja",
+    "model": "EMILIA-T",
+    "category": "Cocina",
+    "price": 249.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 tapete",
+      "1 escurridor"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Juego de tapetes para tarja 2 piezas $249.00",
+    "page": 131,
+    "image": "/images/catalog/page_131_img_1.png",
+    "images": [
+      "/images/catalog/page_131_img_1.png"
+    ]
+  },
+  {
+    "id": "131-VIVAR-187",
+    "name": "Escurridor de PP y poliéster",
+    "model": "VIVAR",
+    "category": "Cocina",
+    "price": 499.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 tapete",
+      "1 escurridor",
+      "1 escurridor",
+      "para utensilios"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Escurridor de PP y poliéster 3 piezas $499.00",
+    "page": 131,
+    "image": "/images/catalog/page_131_img_1.png",
+    "images": [
+      "/images/catalog/page_131_img_1.png"
+    ]
+  },
+  {
+    "id": "132-VALENTINA-188",
+    "name": "Dispensador de jabón para esponja",
+    "model": "VALENTINA",
+    "category": "Cocina",
+    "price": 399.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [
+      "330 ml"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. Dispensador de jabón de acero inoxidable para esponja Capacidad: 330 ml $399.00",
+    "page": 132,
+    "image": "/images/catalog/page_132_img_3.png",
+    "images": [
+      "/images/catalog/page_132_img_3.png"
+    ]
+  },
+  {
+    "id": "132-CAMILA-189",
+    "name": "Organizador para fregadero con drenaje giratorio",
+    "model": "CAMILA",
+    "category": "Cocina",
+    "price": 449.0,
+    "pieces": 7,
+    "includedPieces": [
+      "1 base",
+      "1 sujetador",
+      "1 organizador",
+      "4 soportes"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Organizador para fregadero con drenaje giratorio 7 piezas $449.00",
+    "page": 132,
+    "image": "/images/catalog/page_132_img_3.png",
+    "images": [
+      "/images/catalog/page_132_img_3.png"
+    ]
+  },
+  {
+    "id": "133-BRUMA-190",
+    "name": "Limpiador antideslizante para botellas con doble cepillo",
+    "model": "BRUMA",
+    "category": "Cocina",
+    "price": 229.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Limpiador antideslizante para botellas con doble cepillo 1 pieza $229.00",
+    "page": 133,
+    "image": "/images/catalog/page_133_img_3.png",
+    "images": [
+      "/images/catalog/page_133_img_3.png"
+    ]
+  },
+  {
+    "id": "135-MAGICCOOK-P36-191",
+    "name": "Paellera de aluminio fundido con agarraderas de silicón",
+    "model": "MAGICCOOK-P36",
+    "category": "Baterías",
+    "price": 1299.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 paellera",
+      "2 agarraderas",
+      "de silicón",
+      "Aluminio",
+      "fundido"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Paellera de aluminio fundido con agarraderas de silicón 3 piezas $1,299.00",
+    "page": 135,
+    "image": "/images/catalog/page_135_img_1.png",
+    "images": [
+      "/images/catalog/page_135_img_1.png"
+    ]
+  },
+  {
+    "id": "136-MAGICCOOK43-192",
+    "name": "Rosticera con rack de acero",
+    "model": "MAGICCOOK43",
+    "category": "Baterías",
+    "price": 1299.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 charola rosticera",
+      "1 rack desmontable"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Rosticera con rack de acero 2 piezas $1,299.00",
+    "page": 136,
+    "image": "/images/catalog/page_136_img_2.png",
+    "images": [
+      "/images/catalog/page_136_img_2.png"
+    ]
+  },
+  {
+    "id": "137-BELEN-193",
+    "name": "Inyector de marinados multifuncional con accesorios",
+    "model": "BELEN",
+    "category": "Baterías",
+    "price": 499.0,
+    "pieces": 7,
+    "includedPieces": [
+      "1 brocha de silicón",
+      "1 cepillo limpiador",
+      "1 inyector graduado",
+      "1 cabecilla de silicón",
+      "2 tenedores para carne",
+      "1 aguja de acero inoxidable"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Inyector de marinados multifuncional con accesorios 7 piezas $499.00",
+    "page": 137,
+    "image": "/images/catalog/page_137_img_3.png",
+    "images": [
+      "/images/catalog/page_137_img_3.png"
+    ]
+  },
+  {
+    "id": "138-MAGICCOOK34B-194",
+    "name": "Parrilla asadera multiusos con agarraderas de aluminio fundido",
+    "model": "MAGICCOOK34B",
+    "category": "Baterías",
+    "price": 1549.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Parrilla asadera multiusos con agarraderas de aluminio fundido 1 pieza $1,549.00",
+    "page": 138,
+    "image": "/images/catalog/page_138_img_2.png",
+    "images": [
+      "/images/catalog/page_138_img_2.png"
+    ]
+  },
+  {
+    "id": "139-MAGICCOOK15B-195",
+    "name": "Vaporera doble multiusos",
+    "model": "MAGICCOOK15B",
+    "category": "Baterías",
+    "price": 2599.0,
+    "pieces": 7,
+    "includedPieces": [
+      "1 olla de 15 L",
+      "1 vaporera colador",
+      "1 vaporera removible",
+      "1 tapa de vidrio templado",
+      "3 soportes de silicón"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Vaporera doble multiusos 7 piezas $2,599.00",
+    "page": 139,
+    "image": "/images/catalog/page_139_img_2.png",
+    "images": [
+      "/images/catalog/page_139_img_2.png"
+    ]
+  },
+  {
+    "id": "140-STACKONE75-196",
+    "name": "Juego de sartenes de aluminio fundido",
+    "model": "STACKONE75",
+    "category": "Baterías",
+    "price": 2399.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 sartén de 20 cm",
+      "1 sartén de 24 cm",
+      "1 sartén de 28 cm",
+      "Base de",
+      "inducción"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Juego de sartenes de aluminio fundido 3 piezas $2,399.00",
+    "page": 140,
+    "image": "/images/catalog/page_140_img_3.png",
+    "images": [
+      "/images/catalog/page_140_img_3.png"
+    ]
+  },
+  {
+    "id": "141-STACKONE72-197",
+    "name": "Juego de crepera y parrilla de aluminio fundido",
+    "model": "STACKONE72",
+    "category": "Baterías",
+    "price": 1899.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 crepera de 25 cm",
+      "1 parrilla de 28 cm"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Juego de crepera y parrilla de aluminio fundido 2 piezas $1,899.00",
+    "page": 141,
+    "image": "/images/catalog/page_141_img_4.png",
+    "images": [
+      "/images/catalog/page_141_img_4.png"
+    ]
+  },
+  {
+    "id": "142-VINNA70-198",
+    "name": "Batería de aluminio forjado",
+    "model": "VINNA70",
+    "category": "Baterías",
+    "price": 2999.0,
+    "pieces": 9,
+    "includedPieces": [
+      "1 sartén de 26 cm",
+      "1 sartén de 28 cm",
+      "1 cacerola con tapa de 4.2 L (2 pzas)",
+      "1 cuchillo de pan de 33 cm",
+      "1 cuchillo utilitario de 24 cm",
+      "1 cuchillo de chef de 31.8 cm",
+      "1 cuchillo pelador de 20.5 cm",
+      "1 cuchillo filetero de 31.8 cm"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Batería de aluminio forjado 9 piezas $2,999.00",
+    "page": 142,
+    "image": "/images/catalog/page_142_img_2.png",
+    "images": [
+      "/images/catalog/page_142_img_2.png"
+    ]
+  },
+  {
+    "id": "143-ODELIA-199",
+    "name": "Batería de acero inoxidable",
+    "model": "ODELIA",
+    "category": "Baterías",
+    "price": 3999.0,
+    "pieces": 9,
+    "includedPieces": [
+      "1 sartén de 24 cm",
+      "1 cazo con tapa de 1.6 L (2 pzas)",
+      "1 cazo con tapa de 2.5 L (2 pzas)",
+      "1 cacerola con tapa de 3.3 L (2 pzas)",
+      "1 cacerola con tapa de 5.6 L (2 pzas)"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "Batería de acero inoxidable 9 piezas $3,999.00",
+    "page": 143,
+    "image": "/images/catalog/page_143_img_1.png",
+    "images": [
+      "/images/catalog/page_143_img_1.png"
+    ]
+  },
+  {
+    "id": "144-TENDER73-N-200",
+    "name": "Batería de aluminio prensado con utensilios de silicón",
+    "model": "TENDER73-N",
+    "category": "Baterías",
+    "price": 2699.0,
+    "pieces": 6,
+    "includedPieces": [
+      "1 pinza",
+      "1 cucharón",
+      "1 volteador",
+      "1 cacerola con",
+      "tapa de 6 L (2 pzas)",
+      "1 comal de 34 cm",
+      "de aluminio fundido"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Batería de aluminio prensado con utensilios de silicón 6 piezas $2,699.00",
+    "page": 144,
+    "image": "/images/catalog/page_144_img_1.png",
+    "images": [
+      "/images/catalog/page_144_img_1.png"
+    ]
+  },
+  {
+    "id": "145-TENDER70-N-201",
+    "name": "Batería de aluminio prensado",
+    "model": "TENDER70-N",
+    "category": "Baterías",
+    "price": 3099.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 sartén de 20 cm",
+      "1 sartén de 24 cm",
+      "1 sartén de 26 cm",
+      "1 cacerola con tapa",
+      "de 4.2 L (2 pzas)",
+      "Tipos de",
+      "Antiadherente",
+      "Tradicional"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Batería de aluminio prensado 5 piezas $3,099.00",
+    "page": 145,
+    "image": "/images/catalog/page_145_img_2.png",
+    "images": [
+      "/images/catalog/page_145_img_2.png"
+    ]
+  },
+  {
+    "id": "146-TERRA74-202",
+    "name": "Batería de aluminio forjado",
+    "model": "TERRA74",
+    "category": "Baterías",
+    "price": 2499.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 sartén de 22 cm",
+      "1 sartén de 26 cm",
+      "1 sartén de 30 cm",
+      "1 pocillo de 1 L de",
+      "aluminio prensado"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Batería de aluminio forjado 4 piezas $2,499.00",
+    "page": 146,
+    "image": "/images/catalog/page_146_img_2.png",
+    "images": [
+      "/images/catalog/page_146_img_2.png"
+    ]
+  },
+  {
+    "id": "147-TERRA73-203",
+    "name": "Batería de aluminio forjado",
+    "model": "TERRA73",
+    "category": "Baterías",
+    "price": 2799.0,
+    "pieces": 6,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Batería de aluminio forjado 6 piezas $2,799.00",
+    "page": 147,
+    "image": "/images/catalog/page_147_img_3.png",
+    "images": [
+      "/images/catalog/page_147_img_3.png"
+    ]
+  },
+  {
+    "id": "148-FIRENZE-P26-204",
+    "name": "Parrilla de aluminio",
+    "model": "FIRENZE-P26",
+    "category": "Baterías",
+    "price": 749.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "26 cm"
+    ],
+    "attributes": [],
+    "description": "1. Parrilla de aluminio forjado de 26 cm 1 pieza $749.00",
+    "page": 148,
+    "image": "/images/catalog/page_148_img_1.png",
+    "images": [
+      "/images/catalog/page_148_img_1.png"
+    ]
+  },
+  {
+    "id": "148-FIRENZE-A36-205",
+    "name": "Arrocera de aluminio",
+    "model": "FIRENZE-A36",
+    "category": "Baterías",
+    "price": 1199.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 arrocera de 3.6 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "3.6 L"
+    ],
+    "attributes": [],
+    "description": "2. Arrocera de aluminio forjado de 3.6 L 2 piezas $1,199.00",
+    "page": 148,
+    "image": "/images/catalog/page_148_img_2.png",
+    "images": [
+      "/images/catalog/page_148_img_2.png"
+    ]
+  },
+  {
+    "id": "149-FIRENZE-C39-206",
+    "name": "Cacerola de aluminio",
+    "model": "FIRENZE-C39",
+    "category": "Baterías",
+    "price": 1399.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 cacerola de 3.9 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "3.9 L"
+    ],
+    "attributes": [],
+    "description": "3. Cacerola de aluminio forjado de 3.9 L 2 piezas $1,399.00",
+    "page": 149,
+    "image": "/images/catalog/page_149_img_3.png",
+    "images": [
+      "/images/catalog/page_149_img_3.png"
+    ]
+  },
+  {
+    "id": "149-FIRENZE-C59-207",
+    "name": "Cacerola de aluminio",
+    "model": "FIRENZE-C59",
+    "category": "Baterías",
+    "price": 1599.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 cacerola de 5.6 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "5.9 L"
+    ],
+    "attributes": [],
+    "description": "4. Cacerola de aluminio forjado de 5.9 L 2 piezas $1,599.00",
+    "page": 149,
+    "image": "/images/catalog/page_149_img_3.png",
+    "images": [
+      "/images/catalog/page_149_img_3.png"
+    ]
+  },
+  {
+    "id": "150-FIRENZE-C26-208",
+    "name": "Crepera de aluminio",
+    "model": "FIRENZE-C26",
+    "category": "Baterías",
+    "price": 629.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "26 cm"
+    ],
+    "attributes": [],
+    "description": "1. Crepera de aluminio forjado de 26 cm 1 pieza $629.00",
+    "page": 150,
+    "image": "/images/catalog/page_150_img_1.png",
+    "images": [
+      "/images/catalog/page_150_img_1.png"
+    ]
+  },
+  {
+    "id": "150-FIRENZE-S28-209",
+    "name": "Sartén de aluminio",
+    "model": "FIRENZE-S28",
+    "category": "Baterías",
+    "price": 699.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "28 cm"
+    ],
+    "attributes": [],
+    "description": "2. Sartén de aluminio forjado de 28 cm 1 pieza $699.00",
+    "page": 150,
+    "image": "/images/catalog/page_150_img_1.png",
+    "images": [
+      "/images/catalog/page_150_img_1.png"
+    ]
+  },
+  {
+    "id": "151-FIRENZE-S20-210",
+    "name": "Sartén de aluminio",
+    "model": "FIRENZE-S20",
+    "category": "Baterías",
+    "price": 489.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "20 cm"
+    ],
+    "attributes": [],
+    "description": "3. Sartén de aluminio forjado de 20 cm 1 pieza $489.00",
+    "page": 151,
+    "image": "/images/catalog/page_151_img_1.png",
+    "images": [
+      "/images/catalog/page_151_img_1.png"
+    ]
+  },
+  {
+    "id": "151-FIRENZE-S24-211",
+    "name": "Sartén de aluminio",
+    "model": "FIRENZE-S24",
+    "category": "Baterías",
+    "price": 589.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "24 cm"
+    ],
+    "attributes": [],
+    "description": "4. Sartén de aluminio forjado de 24 cm 1 pieza $589.00",
+    "page": 151,
+    "image": "/images/catalog/page_151_img_2.png",
+    "images": [
+      "/images/catalog/page_151_img_2.png"
+    ]
+  },
+  {
+    "id": "152-ARLO24-212",
+    "name": "Sartén de aluminio",
+    "model": "ARLO24",
+    "category": "Baterías",
+    "price": 749.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "24 cm"
+    ],
+    "attributes": [],
+    "description": "1. Sartén de aluminio forjado de 24 cm 1 pieza $749.00",
+    "page": 152,
+    "image": "/images/catalog/page_152_img_2.png",
+    "images": [
+      "/images/catalog/page_152_img_2.png"
+    ]
+  },
+  {
+    "id": "152-ARLO2L-213",
+    "name": "Cazo de aluminio",
+    "model": "ARLO2L",
+    "category": "Baterías",
+    "price": 949.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 cazo de 2 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "2 L"
+    ],
+    "attributes": [],
+    "description": "2. Cazo de aluminio forjado de 2 L 2 piezas $949.00",
+    "page": 152,
+    "image": "/images/catalog/page_152_img_1.png",
+    "images": [
+      "/images/catalog/page_152_img_1.png"
+    ]
+  },
+  {
+    "id": "153-ARLO4L-214",
+    "name": "Cacerola de aluminio",
+    "model": "ARLO4L",
+    "category": "Baterías",
+    "price": 1299.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 cacerola de 4.2 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "4.2 L"
+    ],
+    "attributes": [],
+    "description": "3. Cacerola de aluminio forjado de 4.2 L 2 piezas $1,299.00",
+    "page": 153,
+    "image": "/images/catalog/page_153_img_1.png",
+    "images": [
+      "/images/catalog/page_153_img_1.png"
+    ]
+  },
+  {
+    "id": "153-ARLO6L-215",
+    "name": "Cacerola de aluminio",
+    "model": "ARLO6L",
+    "category": "Baterías",
+    "price": 1599.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 cacerola de 6.6 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "6.6 L"
+    ],
+    "attributes": [],
+    "description": "4. Cacerola de aluminio forjado de 6.6 L 2 piezas $1,599.00",
+    "page": 153,
+    "image": "/images/catalog/page_153_img_2.png",
+    "images": [
+      "/images/catalog/page_153_img_2.png"
+    ]
+  },
+  {
+    "id": "154-TESSA26-216",
+    "name": "Sartén de aluminio",
+    "model": "TESSA26",
+    "category": "Baterías",
+    "price": 599.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "26 cm"
+    ],
+    "attributes": [],
+    "description": "1. Sartén de aluminio prensado de 26 cm 1 pieza $599.00",
+    "page": 154,
+    "image": "/images/catalog/page_154_img_3.png",
+    "images": [
+      "/images/catalog/page_154_img_3.png"
+    ]
+  },
+  {
+    "id": "154-TESSA3L-217",
+    "name": "Arrocera de aluminio prensado con tapa",
+    "model": "TESSA3L",
+    "category": "Baterías",
+    "price": 1149.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 arrocera de 3.5 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "3.5 L"
+    ],
+    "attributes": [],
+    "description": "2. Arrocera de aluminio prensado con tapa de 3.5 L 2 piezas $1,149.00",
+    "page": 154,
+    "image": "/images/catalog/page_154_img_2.png",
+    "images": [
+      "/images/catalog/page_154_img_2.png"
+    ]
+  },
+  {
+    "id": "155-TESSA4L-218",
+    "name": "Cacerola de aluminio prensado con tapa",
+    "model": "TESSA4L",
+    "category": "Baterías",
+    "price": 1199.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 cacerola de 4.3 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "4.3 L"
+    ],
+    "attributes": [],
+    "description": "3. Cacerola de aluminio prensado con tapa de 4.3 L 2 piezas $1,199.00",
+    "page": 155,
+    "image": "/images/catalog/page_155_img_1.png",
+    "images": [
+      "/images/catalog/page_155_img_1.png"
+    ]
+  },
+  {
+    "id": "155-TESSA6L-219",
+    "name": "Cacerola de aluminio prensado con tapa",
+    "model": "TESSA6L",
+    "category": "Baterías",
+    "price": 1399.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 cacerola de 6 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "6 L"
+    ],
+    "attributes": [],
+    "description": "4. Cacerola de aluminio prensado con tapa de 6 L 2 piezas $1,399.00",
+    "page": 155,
+    "image": "/images/catalog/page_155_img_1.png",
+    "images": [
+      "/images/catalog/page_155_img_1.png"
+    ]
+  },
+  {
+    "id": "156-TESSA20-220",
+    "name": "Sartén de aluminio",
+    "model": "TESSA20",
+    "category": "Baterías",
+    "price": 499.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "20 cm"
+    ],
+    "attributes": [],
+    "description": "1. Sartén de aluminio prensado de 20 cm 1 pieza $499.00",
+    "page": 156,
+    "image": "/images/catalog/page_156_img_1.png",
+    "images": [
+      "/images/catalog/page_156_img_1.png"
+    ]
+  },
+  {
+    "id": "156-TESSA24-221",
+    "name": "Sartén de aluminio",
+    "model": "TESSA24",
+    "category": "Baterías",
+    "price": 549.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "24 cm"
+    ],
+    "attributes": [],
+    "description": "2. Sartén de aluminio prensado de 24 cm 1 pieza $549.00",
+    "page": 156,
+    "image": "/images/catalog/page_156_img_2.png",
+    "images": [
+      "/images/catalog/page_156_img_2.png"
+    ]
+  },
+  {
+    "id": "157-ISYCOOK-P-222",
+    "name": "Parrilla cuadrada individual",
+    "model": "ISYCOOK-P",
+    "category": "Baterías",
+    "price": 529.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Parrilla cuadrada individual 1 pieza $529.00",
+    "page": 157,
+    "image": "/images/catalog/page_157_img_1.png",
+    "images": [
+      "/images/catalog/page_157_img_1.png"
+    ]
+  },
+  {
+    "id": "157-ISYCOOK-223",
+    "name": "Sartén cuadrado de 3 divisiones",
+    "model": "ISYCOOK",
+    "category": "Baterías",
+    "price": 499.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Sartén cuadrado de 3 divisiones 1 pieza $499.00",
+    "page": 157,
+    "image": "/images/catalog/page_157_img_2.png",
+    "images": [
+      "/images/catalog/page_157_img_2.png"
+    ]
+  },
+  {
+    "id": "158-BLANC6-224",
+    "name": "Cacerola de acero inoxidable con tapa",
+    "model": "BLANC6",
+    "category": "Baterías",
+    "price": 1999.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 cacerola de 6 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "6 L"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "Cacerola de acero inoxidable con tapa Capacidad: 6 L 2 piezas $1,999.00",
+    "page": 158,
+    "image": "/images/catalog/page_158_img_1.png",
+    "images": [
+      "/images/catalog/page_158_img_1.png"
+    ]
+  },
+  {
+    "id": "159-BLANC9-225",
+    "name": "Cacerola de acero inoxidable con tapa",
+    "model": "BLANC9",
+    "category": "Baterías",
+    "price": 2299.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 cacerola de 9 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "9 L"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "Cacerola de acero inoxidable con tapa Capacidad: 9 L 2 piezas $2,299.00",
+    "page": 159,
+    "image": "/images/catalog/page_159_img_3.png",
+    "images": [
+      "/images/catalog/page_159_img_3.png"
+    ]
+  },
+  {
+    "id": "160-BLANC26-226",
+    "name": "Sartén de acero",
+    "model": "BLANC26",
+    "category": "Baterías",
+    "price": 1249.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "26 cm"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "1. Sartén de acero inoxidable de 26 cm 1 pieza $1,249.00",
+    "page": 160,
+    "image": "/images/catalog/page_160_img_3.png",
+    "images": [
+      "/images/catalog/page_160_img_3.png"
+    ]
+  },
+  {
+    "id": "160-BLANC20-227",
+    "name": "Sartén de acero",
+    "model": "BLANC20",
+    "category": "Baterías",
+    "price": 989.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "20 cm"
+    ],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. Sartén de acero inoxidable de 20 cm 1 pieza $989.00",
+    "page": 160,
+    "image": "/images/catalog/page_160_img_3.png",
+    "images": [
+      "/images/catalog/page_160_img_3.png"
+    ]
+  },
+  {
+    "id": "161-GALACTIC70-228",
+    "name": "Batería de aluminio forjado con utensilios de silicón",
+    "model": "GALACTIC70",
+    "category": "Baterías",
+    "price": 2999.0,
+    "pieces": 8,
+    "includedPieces": [
+      "1 pinza",
+      "1 cuchara",
+      "1 volteador",
+      "1 cucharón",
+      "1 sartén de 20 cm",
+      "1 sartén de 24 cm",
+      "1 cacerola de 6.4 L",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Batería de aluminio forjado con utensilios de silicón 8 piezas $2,999.00",
+    "page": 161,
+    "image": "/images/catalog/page_161_img_2.png",
+    "images": [
+      "/images/catalog/page_161_img_2.png"
+    ]
+  },
+  {
+    "id": "162-COSMOS70-229",
+    "name": "Batería de aluminio forjado",
+    "model": "COSMOS70",
+    "category": "Baterías",
+    "price": 3199.0,
+    "pieces": 5,
+    "includedPieces": [
+      "1 sartén de 20 cm",
+      "1 arrocera de 2 L",
+      "1 cacerola de 4 L",
+      "2 tapas de vidrio",
+      "templado"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Batería de aluminio forjado 5 piezas $3,199.00",
+    "page": 162,
+    "image": "/images/catalog/page_162_img_3.png",
+    "images": [
+      "/images/catalog/page_162_img_3.png"
+    ]
+  },
+  {
+    "id": "163-COSMOS28-230",
+    "name": "Sartén de aluminio",
+    "model": "COSMOS28",
+    "category": "Baterías",
+    "price": 849.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "28 cm"
+    ],
+    "attributes": [],
+    "description": "2. Sartén de aluminio forjado de 28 cm 1 pieza $849.00",
+    "page": 163,
+    "image": "/images/catalog/page_163_img_1.png",
+    "images": [
+      "/images/catalog/page_163_img_1.png"
+    ]
+  },
+  {
+    "id": "163-COSMOS24-231",
+    "name": "Sartén de aluminio",
+    "model": "COSMOS24",
+    "category": "Baterías",
+    "price": 699.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "24 cm"
+    ],
+    "attributes": [],
+    "description": "3. Sartén de aluminio forjado de 24 cm 1 pieza $699.00",
+    "page": 163,
+    "image": "/images/catalog/page_163_img_1.png",
+    "images": [
+      "/images/catalog/page_163_img_1.png"
+    ]
+  },
+  {
+    "id": "163-COSMOS6L-232",
+    "name": "Cacerola de aluminio",
+    "model": "COSMOS6L",
+    "category": "Baterías",
+    "price": 1649.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "6 L"
+    ],
+    "attributes": [],
+    "description": "1. Cacerola de aluminio forjado con tapa de 6 L 2 piezas $1,649.00",
+    "page": 163,
+    "image": "/images/catalog/page_163_img_3.png",
+    "images": [
+      "/images/catalog/page_163_img_3.png"
+    ]
+  },
+  {
+    "id": "164-MAGICCOOK50-233",
+    "name": "Comal de aluminio fundido",
+    "model": "MAGICCOOK50",
+    "category": "Baterías",
+    "price": 799.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Comal de aluminio fundido 1 pieza $799.00",
+    "page": 164,
+    "image": "/images/catalog/page_164_img_3.png",
+    "images": [
+      "/images/catalog/page_164_img_3.png"
+    ]
+  },
+  {
+    "id": "165-COSMOS1L-234",
+    "name": "Pocillo de aluminio",
+    "model": "COSMOS1L",
+    "category": "Baterías",
+    "price": 399.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "1 L"
+    ],
+    "attributes": [],
+    "description": "1. Pocillo de aluminio color negro de 1 L 1 pieza $399.00",
+    "page": 165,
+    "image": "/images/catalog/page_165_img_1.png",
+    "images": [
+      "/images/catalog/page_165_img_1.png"
+    ]
+  },
+  {
+    "id": "165-COSMOS-T-235",
+    "name": "Prensa para tortillas de aluminio fundido",
+    "model": "COSMOS-T",
+    "category": "Baterías",
+    "price": 649.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Prensa para tortillas de aluminio fundido 1 pieza $649.00",
+    "page": 165,
+    "image": "/images/catalog/page_165_img_2.png",
+    "images": [
+      "/images/catalog/page_165_img_2.png"
+    ]
+  },
+  {
+    "id": "166-LIDNEGG-236",
+    "name": "Tapa ajustable grande de vidrio templado",
+    "model": "LIDNEGG",
+    "category": "Baterías",
+    "price": 549.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Tapa ajustable grande de vidrio templado 1 pieza $549.00",
+    "page": 166,
+    "image": "/images/catalog/page_166_img_2.png",
+    "images": [
+      "/images/catalog/page_166_img_2.png"
+    ]
+  },
+  {
+    "id": "166-LIDNEGM-237",
+    "name": "Tapa ajustable mediana de vidrio templado",
+    "model": "LIDNEGM",
+    "category": "Baterías",
+    "price": 449.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Tapa ajustable mediana de vidrio templado 1 pieza $449.00",
+    "page": 166,
+    "image": "/images/catalog/page_166_img_1.png",
+    "images": [
+      "/images/catalog/page_166_img_1.png"
+    ]
+  },
+  {
+    "id": "167-LIDNEGS-238",
+    "name": "Tapa ajustable chica de vidrio templado",
+    "model": "LIDNEGS",
+    "category": "Baterías",
+    "price": 399.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Tapa ajustable chica de vidrio templado 1 pieza $399.00",
+    "page": 167,
+    "image": "/images/catalog/page_167_img_1.png",
+    "images": [
+      "/images/catalog/page_167_img_1.png"
+    ]
+  },
+  {
+    "id": "167-FOLDY-239",
+    "name": "Protector antisalpicaduras multiusos",
+    "model": "FOLDY",
+    "category": "Baterías",
+    "price": 299.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Protector antisalpicaduras multiusos 1 pieza $299.00",
+    "page": 167,
+    "image": "/images/catalog/page_167_img_3.png",
+    "images": [
+      "/images/catalog/page_167_img_3.png"
+    ]
+  },
+  {
+    "id": "168-REDVELVET70-240",
+    "name": "Batería de aluminio prensado con tapas de vidrio templado y juego de cuchillos",
+    "model": "REDVELVET70",
+    "category": "Baterías",
+    "price": 3199.0,
+    "pieces": 11,
+    "includedPieces": [
+      "1 sartén de 24 cm",
+      "1 crepera de 26 cm",
+      "1 sartén cuadrado de 25 cm",
+      "1 cuchillo para pan de 32 cm",
+      "1 cuchillo para chef de 32 cm",
+      "1 cuchillo de cocina de 23 cm",
+      "1 cuchillo para fruta de 19 cm",
+      "1 cacerola con tapa de 5 L (2 pzas)",
+      "1 cacerola con tapa de 3.5 L (2 pzas)"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Batería de aluminio prensado con tapas de vidrio templado y juego de cuchillos 11 piezas $3,199.00",
+    "page": 168,
+    "image": "/images/catalog/page_168_img_2.png",
+    "images": [
+      "/images/catalog/page_168_img_2.png"
+    ]
+  },
+  {
+    "id": "169-VELVET-3-241",
+    "name": "Juego de sartenes de aluminio prensado",
+    "model": "VELVET-3",
+    "category": "Baterías",
+    "price": 1599.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 sartén de 20 cm",
+      "1 sartén de 24 cm",
+      "1 sartén de 28 cm"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Juego de sartenes de aluminio prensado 3 piezas $1,599.00",
+    "page": 169,
+    "image": "/images/catalog/page_169_img_2.png",
+    "images": [
+      "/images/catalog/page_169_img_2.png"
+    ]
+  },
+  {
+    "id": "169-ETNA-242",
+    "name": "Vaporera expandible",
+    "model": "ETNA",
+    "category": "Baterías",
+    "price": 369.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "2. 2. Vaporera expandible de acero inoxidable 1 pieza $369.00",
+    "page": 169,
+    "image": "/images/catalog/page_169_img_1.png",
+    "images": [
+      "/images/catalog/page_169_img_1.png"
+    ]
+  },
+  {
+    "id": "170-MAGICCOOK28-243",
+    "name": "Crepera de aluminio",
+    "model": "MAGICCOOK28",
+    "category": "Baterías",
+    "price": 549.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "28 cm"
+    ],
+    "attributes": [],
+    "description": "1. Crepera de aluminio de 28 cm 1 pieza $549.00",
+    "page": 170,
+    "image": "/images/catalog/page_170_img_2.png",
+    "images": [
+      "/images/catalog/page_170_img_2.png"
+    ]
+  },
+  {
+    "id": "170-BOHOSTONE84-244",
+    "name": "Parrilla rectangular doble de aluminio fundido",
+    "model": "BOHOSTONE84",
+    "category": "Baterías",
+    "price": 1899.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Parrilla rectangular doble de aluminio fundido 1 pieza $1,899.00",
+    "page": 170,
+    "image": "/images/catalog/page_170_img_1.png",
+    "images": [
+      "/images/catalog/page_170_img_1.png"
+    ]
+  },
+  {
+    "id": "171-BOHOSTONE83-245",
+    "name": "Sartén de aluminio",
+    "model": "BOHOSTONE83",
+    "category": "Baterías",
+    "price": 1399.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "32 cm"
+    ],
+    "attributes": [],
+    "description": "3. Sartén de aluminio fundido de 32 cm 1 pieza $1,399.00",
+    "page": 171,
+    "image": "/images/catalog/page_171_img_1.png",
+    "images": [
+      "/images/catalog/page_171_img_1.png"
+    ]
+  },
+  {
+    "id": "171-BOHOWOOD83-246",
+    "name": "Sartén de aluminio",
+    "model": "BOHOWOOD83",
+    "category": "Baterías",
+    "price": 1399.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "32 cm"
+    ],
+    "attributes": [],
+    "description": "4. Sartén de aluminio fundido de 32 cm 1 pieza $1,399.00",
+    "page": 171,
+    "image": "/images/catalog/page_171_img_2.png",
+    "images": [
+      "/images/catalog/page_171_img_2.png"
+    ]
+  },
+  {
+    "id": "172-MAGICSTONE36-247",
+    "name": "Cacerola de aluminio",
+    "model": "MAGICSTONE36",
+    "category": "Baterías",
+    "price": 2399.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 cacerola de 7.5 L",
+      "2 protectores de silicón",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "7.5 L"
+    ],
+    "attributes": [],
+    "description": "Cacerola de aluminio fundido de 7.5 L 4 piezas $2,399.00",
+    "page": 172,
+    "image": "/images/catalog/page_172_img_3.png",
+    "images": [
+      "/images/catalog/page_172_img_3.png"
+    ]
+  },
+  {
+    "id": "173-MAGICWOOD36-248",
+    "name": "Cacerola de aluminio",
+    "model": "MAGICWOOD36",
+    "category": "Baterías",
+    "price": 2399.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 cacerola de 7.5 L",
+      "2 protectores de silicón",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "7.5 L"
+    ],
+    "attributes": [],
+    "description": "Cacerola de aluminio fundido de 7.5 L 4 piezas $2,399.00",
+    "page": 173,
+    "image": "/images/catalog/page_173_img_2.png",
+    "images": [
+      "/images/catalog/page_173_img_2.png"
+    ]
+  },
+  {
+    "id": "174-BOHOSTONE82-249",
+    "name": "Cacerola de aluminio",
+    "model": "BOHOSTONE82",
+    "category": "Baterías",
+    "price": 3399.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 cacerola de 19.5 L",
+      "2 protectores de silicón",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "19.5 L"
+    ],
+    "attributes": [],
+    "description": "Cacerola de aluminio fundido de 19.5 L 4 piezas $3,399.00",
+    "page": 174,
+    "image": "/images/catalog/page_174_img_2.png",
+    "images": [
+      "/images/catalog/page_174_img_2.png"
+    ]
+  },
+  {
+    "id": "175-BOHOWOOD82-250",
+    "name": "Cacerola de aluminio",
+    "model": "BOHOWOOD82",
+    "category": "Baterías",
+    "price": 3399.0,
+    "pieces": 4,
+    "includedPieces": [
+      "1 cacerola de 19.5 L",
+      "2 protectores de silicón",
+      "1 tapa de vidrio templado"
+    ],
+    "measurements": [
+      "19.5 L"
+    ],
+    "attributes": [],
+    "description": "Cacerola de aluminio fundido de 19.5 L 4 piezas $3,399.00",
+    "page": 175,
+    "image": "/images/catalog/page_175_img_2.png",
+    "images": [
+      "/images/catalog/page_175_img_2.png"
+    ]
+  },
+  {
+    "id": "176-BOHOWOOD75-251",
+    "name": "Sartén de aluminio",
+    "model": "BOHOWOOD75",
+    "category": "Baterías",
+    "price": 899.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "20 cm"
+    ],
+    "attributes": [],
+    "description": "1. Sartén de aluminio fundido de 20 cm 1 pieza $899.00",
+    "page": 176,
+    "image": "/images/catalog/page_176_img_1.png",
+    "images": [
+      "/images/catalog/page_176_img_1.png"
+    ]
+  },
+  {
+    "id": "176-BOHOWOOD78-252",
+    "name": "Sartén de aluminio",
+    "model": "BOHOWOOD78",
+    "category": "Baterías",
+    "price": 1079.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "26 cm"
+    ],
+    "attributes": [],
+    "description": "2. Sartén de aluminio fundido de 26 cm 1 pieza $1,079.00",
+    "page": 176,
+    "image": "/images/catalog/page_176_img_1.png",
+    "images": [
+      "/images/catalog/page_176_img_1.png"
+    ]
+  },
+  {
+    "id": "176-BOHOWOOD72-253",
+    "name": "Arrocera de aluminio fundido con tapa",
+    "model": "BOHOWOOD72",
+    "category": "Baterías",
+    "price": 1899.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "3.6 L"
+    ],
+    "attributes": [],
+    "description": "3. Arrocera de aluminio fundido con tapa de 3.6 L 2 piezas $1,899.00",
+    "page": 176,
+    "image": "/images/catalog/page_176_img_1.png",
+    "images": [
+      "/images/catalog/page_176_img_1.png"
+    ]
+  },
+  {
+    "id": "177-BOHOWOOD74-254",
+    "name": "Cacerola de aluminio",
+    "model": "BOHOWOOD74",
+    "category": "Baterías",
+    "price": 1999.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "7.1 L"
+    ],
+    "attributes": [],
+    "description": "4. Cacerola de aluminio fundido con tapa de 7.1 L 2 piezas $1,999.00",
+    "page": 177,
+    "image": "/images/catalog/page_177_img_2.png",
+    "images": [
+      "/images/catalog/page_177_img_2.png"
+    ]
+  },
+  {
+    "id": "177-BOHOWOOD77-255",
+    "name": "Sartén de aluminio fundido",
+    "model": "BOHOWOOD77",
+    "category": "Baterías",
+    "price": 1199.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "28 cm"
+    ],
+    "attributes": [],
+    "description": "5. Sartén de aluminio fundido de 28 cm 1 pieza $1,199.00",
+    "page": 177,
+    "image": "/images/catalog/page_177_img_2.png",
+    "images": [
+      "/images/catalog/page_177_img_2.png"
+    ]
+  },
+  {
+    "id": "178-BOHOWOOD79-256",
+    "name": "Wok de aluminio",
+    "model": "BOHOWOOD79",
+    "category": "Baterías",
+    "price": 1699.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "30 cm"
+    ],
+    "attributes": [],
+    "description": "3. Wok de aluminio fundido de 30 cm 1 pieza $1,699.00",
+    "page": 178,
+    "image": "/images/catalog/page_178_img_1.png",
+    "images": [
+      "/images/catalog/page_178_img_1.png"
+    ]
+  },
+  {
+    "id": "178-BOHOWOOD76-257",
+    "name": "Sartén de aluminio",
+    "model": "BOHOWOOD76",
+    "category": "Baterías",
+    "price": 999.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "24 cm"
+    ],
+    "attributes": [],
+    "description": "1. Sartén de aluminio fundido de 24 cm 1 pieza $999.00",
+    "page": 178,
+    "image": "/images/catalog/page_178_img_1.png",
+    "images": [
+      "/images/catalog/page_178_img_1.png"
+    ]
+  },
+  {
+    "id": "178-BOHOWOOD80-258",
+    "name": "Parrilla cuadrada de aluminio fundido",
+    "model": "BOHOWOOD80",
+    "category": "Baterías",
+    "price": 1149.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "28 cm"
+    ],
+    "attributes": [],
+    "description": "2. Parrilla cuadrada de aluminio fundido de 28 cm 1 pieza $1,149.00",
+    "page": 178,
+    "image": "/images/catalog/page_178_img_1.png",
+    "images": [
+      "/images/catalog/page_178_img_1.png"
+    ]
+  },
+  {
+    "id": "179-BOHOWOOD81-259",
+    "name": "Cazo de aluminio",
+    "model": "BOHOWOOD81",
+    "category": "Baterías",
+    "price": 1249.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "1.5 L"
+    ],
+    "attributes": [],
+    "description": "4. Cazo de aluminio fundido con tapa de 1.5 L 2 piezas $1,249.00",
+    "page": 179,
+    "image": "/images/catalog/page_179_img_1.png",
+    "images": [
+      "/images/catalog/page_179_img_1.png"
+    ]
+  },
+  {
+    "id": "179-BOHOWOOD73-260",
+    "name": "Cacerola de aluminio",
+    "model": "BOHOWOOD73",
+    "category": "Baterías",
+    "price": 1699.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "4.3 L"
+    ],
+    "attributes": [],
+    "description": "5. Cacerola de aluminio fundido con tapa de 4.3 L 2 piezas $1,699.00",
+    "page": 179,
+    "image": "/images/catalog/page_179_img_2.png",
+    "images": [
+      "/images/catalog/page_179_img_2.png"
+    ]
+  },
+  {
+    "id": "180-BOHOSTONE79-261",
+    "name": "Wok de aluminio",
+    "model": "BOHOSTONE79",
+    "category": "Baterías",
+    "price": 1699.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "30 cm"
+    ],
+    "attributes": [],
+    "description": "3. Wok de aluminio fundido de 30 cm 1 pieza $1,699.00",
+    "page": 180,
+    "image": "/images/catalog/page_180_img_1.png",
+    "images": [
+      "/images/catalog/page_180_img_1.png"
+    ]
+  },
+  {
+    "id": "180-BOHOSTONE73-262",
+    "name": "Cacerola de aluminio fundido con tapa",
+    "model": "BOHOSTONE73",
+    "category": "Baterías",
+    "price": 1699.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "4.3 L"
+    ],
+    "attributes": [],
+    "description": "1. Cacerola de aluminio fundido con tapa de 4.3 L 2 piezas $1,699.00",
+    "page": 180,
+    "image": "/images/catalog/page_180_img_1.png",
+    "images": [
+      "/images/catalog/page_180_img_1.png"
+    ]
+  },
+  {
+    "id": "180-BOHOSTONE72-263",
+    "name": "Arrocera de aluminio fundido con tapa",
+    "model": "BOHOSTONE72",
+    "category": "Baterías",
+    "price": 1899.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "3.6 L"
+    ],
+    "attributes": [],
+    "description": "2. Arrocera de aluminio fundido con tapa de 3.6 L 2 piezas $1,899.00",
+    "page": 180,
+    "image": "/images/catalog/page_180_img_1.png",
+    "images": [
+      "/images/catalog/page_180_img_1.png"
+    ]
+  },
+  {
+    "id": "181-BOHOSTONE75-264",
+    "name": "Sartén de aluminio",
+    "model": "BOHOSTONE75",
+    "category": "Baterías",
+    "price": 899.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Sartén de aluminio",
+    "page": 181,
+    "image": "/images/catalog/page_181_img_1.png",
+    "images": [
+      "/images/catalog/page_181_img_1.png"
+    ]
+  },
+  {
+    "id": "181-BOHOSTONE77-265",
+    "name": "Sartén de aluminio",
+    "model": "BOHOSTONE77",
+    "category": "Baterías",
+    "price": 899.0,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "5. Sartén de aluminio",
+    "page": 181,
+    "image": "/images/catalog/page_181_img_1.png",
+    "images": [
+      "/images/catalog/page_181_img_1.png"
+    ]
+  },
+  {
+    "id": "182-BOHOSTONE78-266",
+    "name": "Sartén de aluminio",
+    "model": "BOHOSTONE78",
+    "category": "Baterías",
+    "price": 1079.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "26 cm"
+    ],
+    "attributes": [],
+    "description": "1. Sartén de aluminio fundido de 26 cm 1 pieza $1,079.00",
+    "page": 182,
+    "image": "/images/catalog/page_182_img_1.png",
+    "images": [
+      "/images/catalog/page_182_img_1.png"
+    ]
+  },
+  {
+    "id": "182-BOHOSTONE76-267",
+    "name": "Sartén de aluminio",
+    "model": "BOHOSTONE76",
+    "category": "Baterías",
+    "price": 999.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "24 cm"
+    ],
+    "attributes": [],
+    "description": "3. Sartén de aluminio fundido de 24 cm 1 pieza $999.00",
+    "page": 182,
+    "image": "/images/catalog/page_182_img_1.png",
+    "images": [
+      "/images/catalog/page_182_img_1.png"
+    ]
+  },
+  {
+    "id": "182-BOHOSTONE81-268",
+    "name": "Cazo de aluminio fundido con tapa",
+    "model": "BOHOSTONE81",
+    "category": "Baterías",
+    "price": 1249.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "1.5 L"
+    ],
+    "attributes": [],
+    "description": "2. Cazo de aluminio fundido con tapa de 1.5 L 2 piezas $1,249.00",
+    "page": 182,
+    "image": "/images/catalog/page_182_img_1.png",
+    "images": [
+      "/images/catalog/page_182_img_1.png"
+    ]
+  },
+  {
+    "id": "183-BOHOSTONE74-269",
+    "name": "Cacerola de aluminio fundido con tapa",
+    "model": "BOHOSTONE74",
+    "category": "Baterías",
+    "price": 1999.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [
+      "7.1 L"
+    ],
+    "attributes": [],
+    "description": "4. Cacerola de aluminio fundido con tapa de 7.1 L 2 piezas $1,999.00",
+    "page": 183,
+    "image": "/images/catalog/page_183_img_3.png",
+    "images": [
+      "/images/catalog/page_183_img_3.png"
+    ]
+  },
+  {
+    "id": "183-BOHOSTONE80-270",
+    "name": "Parrilla de aluminio",
+    "model": "BOHOSTONE80",
+    "category": "Baterías",
+    "price": 1149.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [
+      "28 cm"
+    ],
+    "attributes": [],
+    "description": "5. Parrilla de aluminio fundido de 28 cm 1 pieza $1,149.00",
+    "page": 183,
+    "image": "/images/catalog/page_183_img_3.png",
+    "images": [
+      "/images/catalog/page_183_img_3.png"
+    ]
+  },
+  {
+    "id": "185-ALMOND-VENT-271",
+    "name": "Ventilador oscilatorio de 3 alturas",
+    "model": "ALMOND-VENT",
+    "category": "Hogar",
+    "price": 1899.0,
+    "pieces": 4,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "Ventilador oscilatorio de 3 alturas 4 piezas $1,899.00",
+    "page": 185,
+    "image": "/images/catalog/page_185_img_4.png",
+    "images": [
+      "/images/catalog/page_185_img_4.png"
+    ]
+  },
+  {
+    "id": "186-SELINA-J-272",
+    "name": "Jabonera para baño con bambú",
+    "model": "SELINA-J",
+    "category": "Hogar",
+    "price": 179.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Jabonera para baño con bambú 1 pieza $179.00",
+    "page": 186,
+    "image": "/images/catalog/page_186_img_2.png",
+    "images": [
+      "/images/catalog/page_186_img_2.png"
+    ]
+  },
+  {
+    "id": "186-SELINA-C-273",
+    "name": "Cepillo para baño con bambú",
+    "model": "SELINA-C",
+    "category": "Hogar",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Cepillo para baño con bambú 2 piezas $399.00",
+    "page": 186,
+    "image": "/images/catalog/page_186_img_1.png",
+    "images": [
+      "/images/catalog/page_186_img_1.png"
+    ]
+  },
+  {
+    "id": "187-SELINA-D-274",
+    "name": "Dispensador de jabón con bambú",
+    "model": "SELINA-D",
+    "category": "Hogar",
+    "price": 219.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Dispensador de jabón con bambú 2 piezas $219.00",
+    "page": 187,
+    "image": "/images/catalog/page_187_img_1.png",
+    "images": [
+      "/images/catalog/page_187_img_1.png"
+    ]
+  },
+  {
+    "id": "187-SELINA-V-275",
+    "name": "Organizador para baño con bambú",
+    "model": "SELINA-V",
+    "category": "Hogar",
+    "price": 179.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Organizador para baño con bambú 1 pieza $179.00",
+    "page": 187,
+    "image": "/images/catalog/page_187_img_1.png",
+    "images": [
+      "/images/catalog/page_187_img_1.png"
+    ]
+  },
+  {
+    "id": "188-FELICIA-276",
+    "name": "Juego de baño negro",
+    "model": "FELICIA",
+    "category": "Hogar",
+    "price": 699.0,
+    "pieces": 10,
+    "includedPieces": [
+      "1 vaso",
+      "1 jabonera",
+      "1 dispensador con tapa (2 pzas)",
+      "1 bote de basura con tapa (2 pzas)",
+      "1 cepillo para baño y base (2 pzas)",
+      "1 vaso con divisiones y tapa (2 pzas)"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Juego de baño negro 10 piezas $699.00",
+    "page": 188,
+    "image": "/images/catalog/page_188_img_3.png",
+    "images": [
+      "/images/catalog/page_188_img_3.png"
+    ]
+  },
+  {
+    "id": "189-ERNO-277",
+    "name": "y elegante, combina con cualquier",
+    "model": "ERNO",
+    "category": "Hogar",
+    "price": null,
+    "pieces": null,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "y elegante, combina con cualquier",
+    "page": 189,
+    "image": "/images/catalog/page_189_img_1.png",
+    "images": [
+      "/images/catalog/page_189_img_1.png"
+    ]
+  },
+  {
+    "id": "189-ALICIA-278",
+    "name": "Juego de baño beige",
+    "model": "ALICIA",
+    "category": "Hogar",
+    "price": 699.0,
+    "pieces": 10,
+    "includedPieces": [
+      "1 vaso",
+      "1 jabonera",
+      "1 dispensador con tapa (2 pzas)",
+      "1 bote de basura con tapa (2 pzas)",
+      "1 cepillo para baño y base (2 pzas)",
+      "1 vaso con divisiones y tapa (2 pzas)"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "Juego de baño beige 10 piezas $699.00",
+    "page": 189,
+    "image": "/images/catalog/page_189_img_1.png",
+    "images": [
+      "/images/catalog/page_189_img_1.png"
+    ]
+  },
+  {
+    "id": "190-ISADORA-279",
+    "name": "Tendedero expandible de bambú y acero",
+    "model": "ISADORA",
+    "category": "Hogar",
+    "price": 799.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Tendedero expandible de bambú y acero 1 pieza $799.00",
+    "page": 190,
+    "image": "/images/catalog/page_190_img_1.png",
+    "images": [
+      "/images/catalog/page_190_img_1.png"
+    ]
+  },
+  {
+    "id": "190-LUCIA-280",
+    "name": "Cestos de cuerda para lavandería",
+    "model": "LUCIA",
+    "category": "Hogar",
+    "price": 1199.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Cestos de cuerda para lavandería 2 piezas $1,199.00",
+    "page": 190,
+    "image": "/images/catalog/page_190_img_1.png",
+    "images": [
+      "/images/catalog/page_190_img_1.png"
+    ]
+  },
+  {
+    "id": "191-DENALI29-281",
+    "name": "Banco plegable con superficie antideslizante",
+    "model": "DENALI29",
+    "category": "Hogar",
+    "price": 349.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Banco plegable con superficie antideslizante 1 pieza $349.00",
+    "page": 191,
+    "image": "/images/catalog/page_191_img_4.png",
+    "images": [
+      "/images/catalog/page_191_img_4.png"
+    ]
+  },
+  {
+    "id": "191-DENALI39-282",
+    "name": "Banco plegable con superficie antideslizante",
+    "model": "DENALI39",
+    "category": "Hogar",
+    "price": 499.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Banco plegable con superficie antideslizante 1 pieza $499.00",
+    "page": 191,
+    "image": "/images/catalog/page_191_img_4.png",
+    "images": [
+      "/images/catalog/page_191_img_4.png"
+    ]
+  },
+  {
+    "id": "192-SIMPLECLEAN-283",
+    "name": "Cepillo con base para baño",
+    "model": "SIMPLECLEAN",
+    "category": "Hogar",
+    "price": 189.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 base para cepillo",
+      "1 cepillo con gancho"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Cepillo con base para baño 2 piezas $189.00",
+    "page": 192,
+    "image": "/images/catalog/page_192_img_2.png",
+    "images": [
+      "/images/catalog/page_192_img_2.png"
+    ]
+  },
+  {
+    "id": "192-EASYCLEAN-284",
+    "name": "Set de herramientas de limpieza",
+    "model": "EASYCLEAN",
+    "category": "Hogar",
+    "price": 549.0,
+    "pieces": 6,
+    "includedPieces": [
+      "1 enjuagador",
+      "1 cepillo para tallar",
+      "1 cepillo para platos",
+      "1 recogedor con cepillo (2 pzas)",
+      "1 escoba armable de",
+      "126 cm de largo"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Set de herramientas de limpieza 6 piezas $549.00",
+    "page": 192,
+    "image": "/images/catalog/page_192_img_1.png",
+    "images": [
+      "/images/catalog/page_192_img_1.png"
+    ]
+  },
+  {
+    "id": "193-SPINERTWIST-285",
+    "name": "Cubeta exprimidora con trapeador giratorio de polipropileno y",
+    "model": "SPINERTWIST",
+    "category": "Hogar",
+    "price": 899.0,
+    "pieces": 3,
+    "includedPieces": [
+      "1 cubeta",
+      "1 tubo giratorio",
+      "1 trapeador de microfibra"
+    ],
+    "measurements": [],
+    "attributes": [
+      "Acero inoxidable"
+    ],
+    "description": "3. Cubeta exprimidora con trapeador giratorio de polipropileno y acero inoxidable 3 piezas $899.00",
+    "page": 193,
+    "image": "/images/catalog/page_193_img_1.png",
+    "images": [
+      "/images/catalog/page_193_img_1.png"
+    ]
+  },
+  {
+    "id": "193-STSPIN-286",
+    "name": "Mango de repuesto para trapeador giratorio",
+    "model": "STSPIN",
+    "category": "Hogar",
+    "price": 349.0,
+    "pieces": 1,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Mango de repuesto para trapeador giratorio 1 pieza $349.00",
+    "page": 193,
+    "image": "/images/catalog/page_193_img_2.png",
+    "images": [
+      "/images/catalog/page_193_img_2.png"
+    ]
+  },
+  {
+    "id": "193-STMOPSET-287",
+    "name": "Repuesto de microfibra para trapeador",
+    "model": "STMOPSET",
+    "category": "Hogar",
+    "price": 149.0,
+    "pieces": 2,
+    "includedPieces": [],
+    "measurements": [],
+    "attributes": [],
+    "description": "5. Repuesto de microfibra para trapeador 2 piezas $149.00",
+    "page": 193,
+    "image": "/images/catalog/page_193_img_3.png",
+    "images": [
+      "/images/catalog/page_193_img_3.png"
+    ]
+  },
+  {
+    "id": "194-AQUASPRAY-288",
+    "name": "Trapeador de microfibra con sistema de aerosol",
+    "model": "AQUASPRAY",
+    "category": "Hogar",
+    "price": 429.0,
+    "pieces": 6,
+    "includedPieces": [
+      "1 cabezal de trapeador",
+      "1 tubo superior con gatillo",
+      "1 almohadilla de microfibra",
+      "1 tubo inferior con depósito",
+      "1 botella desmontable de 380 ml",
+      "con tapa (2 pzas)"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Trapeador de microfibra con sistema de aerosol 6 piezas $429.00",
+    "page": 194,
+    "image": "/images/catalog/page_194_img_2.png",
+    "images": [
+      "/images/catalog/page_194_img_2.png"
+    ]
+  },
+  {
+    "id": "194-MICROSPRAY-289",
+    "name": "Set de repuestos de microfibra para trapeador",
+    "model": "MICROSPRAY",
+    "category": "Hogar",
+    "price": 199.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 cabezal de trapeador",
+      "1 tubo superior con gatillo",
+      "1 almohadilla de microfibra",
+      "1 tubo inferior con depósito",
+      "1 botella desmontable de 380 ml",
+      "con tapa (2 pzas)"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Set de repuestos de microfibra para trapeador Color: rojo y gris 2 piezas $199.00",
+    "page": 194,
+    "image": "/images/catalog/page_194_img_3.png",
+    "images": [
+      "/images/catalog/page_194_img_3.png"
+    ]
+  },
+  {
+    "id": "196-BARI400-290",
+    "name": "Vela aromática cítrica de 400 gr",
+    "model": "BARI400",
+    "category": "Hogar",
+    "price": 589.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Vela aromática cítrica de 400 gr 2 piezas $589.00",
+    "page": 196,
+    "image": "/images/catalog/page_196_img_1.png",
+    "images": [
+      "/images/catalog/page_196_img_1.png"
+    ]
+  },
+  {
+    "id": "196-BARI220-291",
+    "name": "Vela aromática cítrica de 220 gr",
+    "model": "BARI220",
+    "category": "Hogar",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Vela aromática cítrica de 220 gr 2 piezas $399.00",
+    "page": 196,
+    "image": "/images/catalog/page_196_img_2.png",
+    "images": [
+      "/images/catalog/page_196_img_2.png"
+    ]
+  },
+  {
+    "id": "197-TULUM400-292",
+    "name": "Vela aromática frutal de 400 gr",
+    "model": "TULUM400",
+    "category": "Hogar",
+    "price": 589.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Vela aromática frutal de 400 gr 2 piezas $589.00",
+    "page": 197,
+    "image": "/images/catalog/page_197_img_1.png",
+    "images": [
+      "/images/catalog/page_197_img_1.png"
+    ]
+  },
+  {
+    "id": "197-TULUM220-293",
+    "name": "Vela aromática frutal de 220 gr",
+    "model": "TULUM220",
+    "category": "Hogar",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Vela aromática frutal de 220 gr 2 piezas $399.00",
+    "page": 197,
+    "image": "/images/catalog/page_197_img_2.png",
+    "images": [
+      "/images/catalog/page_197_img_2.png"
+    ]
+  },
+  {
+    "id": "198-LIPTUS400-294",
+    "name": "Vela aromática floral de 400 gr",
+    "model": "LIPTUS400",
+    "category": "Hogar",
+    "price": 589.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Vela aromática floral de 400 gr 2 piezas $589.00",
+    "page": 198,
+    "image": "/images/catalog/page_198_img_1.png",
+    "images": [
+      "/images/catalog/page_198_img_1.png"
+    ]
+  },
+  {
+    "id": "198-LIPTUS220-295",
+    "name": "Vela aromática floral de 220 gr",
+    "model": "LIPTUS220",
+    "category": "Hogar",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Vela aromática floral de 220 gr 2 piezas $399.00",
+    "page": 198,
+    "image": "/images/catalog/page_198_img_1.png",
+    "images": [
+      "/images/catalog/page_198_img_1.png"
+    ]
+  },
+  {
+    "id": "199-PROVENZA220-296",
+    "name": "Vela aromática floral de 220 gr",
+    "model": "PROVENZA220",
+    "category": "Hogar",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Vela aromática floral de 220 gr 2 piezas $399.00",
+    "page": 199,
+    "image": "/images/catalog/page_199_img_1.png",
+    "images": [
+      "/images/catalog/page_199_img_1.png"
+    ]
+  },
+  {
+    "id": "199-PROVENZA400-297",
+    "name": "Vela aromática floral de 400 gr",
+    "model": "PROVENZA400",
+    "category": "Hogar",
+    "price": 589.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Vela aromática floral de 400 gr 2 piezas $589.00",
+    "page": 199,
+    "image": "/images/catalog/page_199_img_1.png",
+    "images": [
+      "/images/catalog/page_199_img_1.png"
+    ]
+  },
+  {
+    "id": "200-SANTORINI400-298",
+    "name": "Vela aromática cítrica de 400 gr",
+    "model": "SANTORINI400",
+    "category": "Hogar",
+    "price": 589.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "1. Vela aromática cítrica de 400 gr 2 piezas $589.00",
+    "page": 200,
+    "image": "/images/catalog/page_200_img_1.png",
+    "images": [
+      "/images/catalog/page_200_img_1.png"
+    ]
+  },
+  {
+    "id": "200-SANTORINI220-299",
+    "name": "Vela aromática cítrica de 220 gr",
+    "model": "SANTORINI220",
+    "category": "Hogar",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "2. Vela aromática cítrica de 220 gr 2 piezas $399.00",
+    "page": 200,
+    "image": "/images/catalog/page_200_img_2.png",
+    "images": [
+      "/images/catalog/page_200_img_2.png"
+    ]
+  },
+  {
+    "id": "201-BRUMAAMBAR400-300",
+    "name": "Vela aromática frutal de 400 gr",
+    "model": "BRUMAAMBAR400",
+    "category": "Hogar",
+    "price": 589.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "3. Vela aromática frutal de 400 gr 2 piezas $589.00",
+    "page": 201,
+    "image": "/images/catalog/page_201_img_2.png",
+    "images": [
+      "/images/catalog/page_201_img_2.png"
+    ]
+  },
+  {
+    "id": "201-BRUMAAMBAR220-301",
+    "name": "Vela aromática frutal de 220 gr",
+    "model": "BRUMAAMBAR220",
+    "category": "Hogar",
+    "price": 399.0,
+    "pieces": 2,
+    "includedPieces": [
+      "1 vela",
+      "1 tapa de bambú"
+    ],
+    "measurements": [],
+    "attributes": [],
+    "description": "4. Vela aromática frutal de 220 gr 2 piezas $399.00",
+    "page": 201,
+    "image": "/images/catalog/page_201_img_1.png",
+    "images": [
+      "/images/catalog/page_201_img_1.png"
+    ]
+  }
+]
